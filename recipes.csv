@@ -1,0 +1,1065 @@
+RecipeName,Ingredients,Instructions
+Pancakes,"flour, eggs, milk, sugar",Mix all ingredients and fry on a pan.
+Omelette,"eggs, milk, cheese","Whisk eggs and milk, cook in a pan with cheese."
+Pasta,"pasta, tomatoes, garlic, olive oil","Cook pasta, make sauce with tomatoes and garlic."
+Garlic Bread,"bread, garlic, butter",Spread garlic butter on bread and bake.
+Salad,"lettuce, tomatoes, cucumber, olive oil",Chop vegetables and mix with olive oil.
+Fried Rice,"rice, eggs, peas, soy sauce","Stir-fry rice with eggs and peas, add soy sauce."
+Tacos,"tortillas, beef, cheese, lettuce, salsa","Fill tortillas with beef, cheese, and toppings."
+Smoothie,"banana, yogurt, honey, milk",Blend all ingredients until smooth.
+Chocolate Cake,"flour, sugar, cocoa powder, eggs, butter",Mix ingredients and bake in the oven.
+Chicken Curry,"chicken, curry powder, coconut milk, rice","Cook chicken with curry powder and coconut milk, serve with rice."
+Vegetable Stir Fry,"mixed vegetables, soy sauce, garlic",Stir-fry vegetables with garlic and soy sauce.
+Quiche,"eggs, cream, cheese, pie crust","Mix eggs and cream, pour into crust, bake until set."
+Minestrone Soup,"vegetables, pasta, beans, broth",Simmer vegetables and pasta in broth until cooked.
+Grilled Cheese,"bread, cheese, butter","Butter bread, place cheese in between, grill until golden."
+Tomato Soup,"tomatoes, garlic, onion, broth","Blend tomatoes, garlic, and onion; simmer in broth."
+Banana Bread,"flour, sugar, bananas, eggs, butter","Mash bananas, mix with other ingredients, bake until golden."
+Scrambled Eggs,"eggs, milk, butter, salt","Whisk eggs and milk, cook with butter, season with salt."
+Beef Stew,"beef, potatoes, carrots, onion, broth",Simmer beef with vegetables and broth until tender.
+Mac and Cheese,"pasta, cheese, milk, butter",Cook pasta and mix with melted cheese and milk.
+Chicken Soup,"chicken, carrots, celery, broth",Simmer chicken and vegetables in broth until cooked.
+Cheeseburger,"beef, bun, cheese, lettuce, tomato","Grill beef patty, place on bun with cheese and toppings."
+Cabbage Salad,"cabbage, carrots, mayonnaise, vinegar","Chop cabbage and carrots, mix with dressing."
+Lemonade,"lemons, sugar, water","Mix lemon juice, sugar, and water."
+Fish Tacos,"fish, tortillas, cabbage, salsa, lime","Grill fish, fill tortillas with fish, cabbage, and salsa."
+Avocado Toast,"bread, avocado, salt, pepper","Spread mashed avocado on toasted bread, season."
+Vegetable Soup,"carrots, potatoes, celery, broth, onion",Simmer vegetables in broth until tender.
+Chicken Salad,"chicken, lettuce, tomatoes, cucumber, mayonnaise",Mix chicken with vegetables and dressing.
+Bruschetta,"bread, tomatoes, garlic, olive oil","Top toasted bread with tomatoes, garlic, and olive oil."
+Spaghetti Bolognese,"pasta, beef, tomatoes, garlic, onion",Cook pasta and beef with tomato sauce.
+Egg Salad,"eggs, mayonnaise, mustard, salt, pepper",Mix chopped eggs with mayonnaise and seasonings.
+Tuna Sandwich,"bread, tuna, mayonnaise, lettuce",Fill bread with tuna mixed with mayonnaise and lettuce.
+Apple Pie,"apples, sugar, flour, butter, cinnamon","Fill pie crust with apples, sugar, and cinnamon; bake."
+Chicken Parmesan,"chicken, breadcrumbs, cheese, tomato sauce, pasta","Bread chicken, bake with tomato sauce and cheese."
+Curry Lentils,"lentils, curry powder, coconut milk, tomatoes",Simmer lentils with curry powder and coconut milk.
+Vegetable Curry,"potatoes, carrots, peas, curry powder, coconut milk",Cook vegetables in curry sauce with coconut milk.
+Shrimp Stir Fry,"shrimp, mixed vegetables, soy sauce, garlic",Stir-fry shrimp and vegetables with soy sauce.
+Baked Salmon,"salmon, lemon, garlic, olive oil, dill","Bake salmon with lemon, garlic, and dill."
+Caesar Salad,"lettuce, croutons, parmesan, Caesar dressing","Mix lettuce with dressing, top with croutons and parmesan."
+Zucchini Bread,"zucchini, flour, sugar, eggs, butter","Mix grated zucchini with ingredients, bake until golden."
+Carrot Soup,"carrots, onion, ginger, broth, cream",Simmer carrots and blend with broth and cream.
+Pumpkin Pie,"pumpkin, sugar, eggs, cream, cinnamon","Fill crust with pumpkin mixture, bake until set."
+Beef Tacos,"beef, tortillas, lettuce, cheese, salsa","Cook beef, fill tortillas with toppings."
+Coleslaw,"cabbage, carrots, mayonnaise, vinegar, sugar",Mix cabbage and carrots with dressing.
+Falafel Wrap,"chickpeas, garlic, onion, parsley, tortillas","Bake falafel balls, serve in tortillas with vegetables."
+Lamb Curry,"lamb, curry powder, tomatoes, coconut milk",Simmer lamb in curry sauce until tender.
+Vegetable Lasagna,"pasta, cheese, spinach, tomatoes, zucchini","Layer pasta with vegetables and cheese, bake."
+Berry Smoothie,"strawberries, blueberries, yogurt, honey, milk",Blend all ingredients until smooth.
+Chocolate Brownies,"chocolate, butter, sugar, eggs, flour",Mix ingredients and bake until fudgy.
+French Toast,"bread, eggs, milk, sugar, cinnamon","Dip bread in egg mixture, fry until golden."
+Roasted Vegetables,"carrots, potatoes, zucchini, olive oil, rosemary",Bake vegetables with olive oil and rosemary.
+Mashed Potatoes,"potatoes, butter, milk, salt","Mash boiled potatoes with butter and milk, season."
+Frittata,"eggs, spinach, cheese, tomatoes, onions",Bake eggs with vegetables and cheese.
+Stuffed Bell Peppers,"bell peppers, rice, beef, tomatoes, cheese","Fill peppers with rice, beef, and tomatoes, bake."
+Chicken Burrito,"tortilla, chicken, rice, beans, salsa","Wrap chicken, rice, and beans in a tortilla."
+Caprese Salad,"tomatoes, mozzarella, basil, olive oil, balsamic","Layer tomatoes with mozzarella and basil, drizzle with oil."
+Ratatouille,"eggplant, zucchini, tomatoes, garlic, olive oil",Bake vegetables with garlic and olive oil.
+Grilled Vegetables,"zucchini, eggplant, peppers, olive oil",Grill vegetables with olive oil until tender.
+Stuffed Mushrooms,"mushrooms, cheese, breadcrumbs, garlic","Stuff mushrooms with cheese and breadcrumbs, bake."
+Spinach Omelette,"eggs, spinach, cheese, milk",Cook eggs with spinach and cheese.
+Roasted Chicken,"chicken, garlic, rosemary, olive oil, lemon",Roast chicken with garlic and rosemary.
+Seafood Paella,"rice, shrimp, mussels, peas, saffron","Cook rice with seafood, saffron, and vegetables."
+Vegetable Burger,"beans, breadcrumbs, onions, lettuce, bun","Make patties with beans, grill, and serve in a bun."
+Guacamole,"avocado, tomatoes, onion, lime, salt",Mash avocado with tomatoes and lime.
+Stuffed Zucchini,"zucchini, rice, tomatoes, cheese, garlic","Fill zucchini with rice and tomatoes, bake until tender."
+Banana Salad,"banana, garlic",Combine banana and garlic. Cook until done. Adjust seasoning to taste. Serve hot.
+Carrots Skillet,"carrots, bun, shrimp","Combine carrots, bun and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Parmesan Tart,"parmesan, bananas, banana, breadcrumbs, croutons, curry powder","Combine parmesan, bananas, banana, breadcrumbs, croutons and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Casserole,"banana, spinach, coconut milk, shrimp, onions, cucumber","Combine banana, spinach, coconut milk, shrimp, onions and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Bake,"garlic, apples, chicken, parmesan, lime, zucchini","Combine garlic, apples, chicken, parmesan, lime and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Lime Pasta,"lime, bun, breadcrumbs","Combine lime, bun and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Milk Frittata,"milk, mayonnaise",Combine milk and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot.
+Basil Pasta,"basil, pepper, salt, cabbage","Combine basil, pepper, salt and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Frittata,"soy sauce, honey",Combine soy sauce and honey. Cook until done. Adjust seasoning to taste. Serve hot.
+Sugar Salad,"sugar, cocoa powder, bell peppers, basil","Combine sugar, cocoa powder, bell peppers and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Soup,"bread, curry powder, broth, mushrooms","Combine bread, curry powder, broth and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Salad,"vinegar, mixed vegetables, chicken, mozzarella, milk","Combine vinegar, mixed vegetables, chicken, mozzarella and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Bake,"water, blueberries, tortilla, vinegar","Combine water, blueberries, tortilla and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Salad,"eggplant, chicken, peppers, mushrooms, flour, spinach","Combine eggplant, chicken, peppers, mushrooms, flour and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Pasta,"beef, curry powder, bananas, lemons","Combine beef, curry powder, bananas and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Bell Peppers Salad,"bell peppers, croutons, strawberries, lemons","Combine bell peppers, croutons, strawberries and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Bake,"mustard, water, pepper, celery, fish","Combine mustard, water, pepper, celery and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Frittata,"spinach, salt, fish","Combine spinach, salt and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Tart,"tomato, olive oil, mixed vegetables, cucumber, carrots","Combine tomato, olive oil, mixed vegetables, cucumber and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Bake,"breadcrumbs, beans, butter, cheese, vegetables","Combine breadcrumbs, beans, butter, cheese and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomatoes Tart,"tomatoes, bell peppers, mussels, mushrooms, peppers","Combine tomatoes, bell peppers, mussels, mushrooms and peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Soup,"soy sauce, avocado, butter, salt","Combine soy sauce, avocado, butter and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Casserole,"butter, honey, parsley, chicken","Combine butter, honey, parsley and chicken. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Bake,"fish, rosemary",Combine fish and rosemary. Cook until done. Adjust seasoning to taste. Serve hot.
+Bun Salad,"bun, vegetables, lamb, vinegar, rosemary, tortilla","Combine bun, vegetables, lamb, vinegar, rosemary and tortilla. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Tart,"mozzarella, chicken, shrimp","Combine mozzarella, chicken and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomatoes Casserole,"tomatoes, lentils",Combine tomatoes and lentils. Cook until done. Adjust seasoning to taste. Serve hot.
+Butter Soup,"butter, mixed vegetables",Combine butter and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot.
+Beef Skillet,"beef, dill, strawberries","Combine beef, dill and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Tart,"pumpkin, bell peppers",Combine pumpkin and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot.
+Caesar Dressing Tart,"caesar dressing, zucchini, pie crust","Combine caesar dressing, zucchini and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Pasta,"fish, salsa, tortilla","Combine fish, salsa and tortilla. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Pasta,"shrimp, coconut milk, lemon","Combine shrimp, coconut milk and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Salad,"pasta, salmon, peas, cabbage","Combine pasta, salmon, peas and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Bell Peppers Frittata,"bell peppers, lime, balsamic","Combine bell peppers, lime and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Salad,"curry powder, tomato sauce, cucumber, apples, blueberries, beef","Combine curry powder, tomato sauce, cucumber, apples, blueberries and beef. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Skillet,"bananas, lettuce",Combine bananas and lettuce. Cook until done. Adjust seasoning to taste. Serve hot.
+Dill Frittata,"dill, garlic, pumpkin, croutons, shrimp, caesar dressing","Combine dill, garlic, pumpkin, croutons, shrimp and caesar dressing. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Skillet,"pie crust, eggplant, zucchini, onion, cocoa powder, broth","Combine pie crust, eggplant, zucchini, onion, cocoa powder and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Milk Skillet,"milk, parmesan, onion, peppers, beans","Combine milk, parmesan, onion, peppers and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Skillet,"olive oil, lime",Combine olive oil and lime. Cook until done. Adjust seasoning to taste. Serve hot.
+Cocoa Powder Bake,"cocoa powder, salt, peas","Combine cocoa powder, salt and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Casserole,"cinnamon, garlic, peppers, eggplant, blueberries","Combine cinnamon, garlic, peppers, eggplant and blueberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Bake,"broth, beans, shrimp, avocado, breadcrumbs, dill","Combine broth, beans, shrimp, avocado, breadcrumbs and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Bake,"pumpkin, potatoes, croutons, olive oil, beef","Combine pumpkin, potatoes, croutons, olive oil and beef. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Pasta,"apples, mussels, fish, pepper, ginger","Combine apples, mussels, fish, pepper and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Delight,"zucchini, pumpkin, cheese, cocoa powder, honey, croutons","Combine zucchini, pumpkin, cheese, cocoa powder, honey and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Casserole,"shrimp, beef, lemons, yogurt, beans, tomato","Combine shrimp, beef, lemons, yogurt, beans and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Salsa Skillet,"salsa, chicken, beef, saffron, bread, cinnamon","Combine salsa, chicken, beef, saffron, bread and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot."
+Bell Peppers Frittata,"bell peppers, dill, olive oil, cabbage, strawberries, eggplant","Combine bell peppers, dill, olive oil, cabbage, strawberries and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Tart,"basil, tuna, bread, onions, tomato, strawberries","Combine basil, tuna, bread, onions, tomato and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Soup,"fish, cream, lemons, dill","Combine fish, cream, lemons and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Skillet,"caesar dressing, water, lamb, pepper, lemons","Combine caesar dressing, water, lamb, pepper and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Frittata,"pepper, tuna",Combine pepper and tuna. Cook until done. Adjust seasoning to taste. Serve hot.
+Blueberries Salad,"blueberries, salt",Combine blueberries and salt. Cook until done. Adjust seasoning to taste. Serve hot.
+Fish Soup,"fish, caesar dressing, mayonnaise, bell peppers, eggplant, mozzarella","Combine fish, caesar dressing, mayonnaise, bell peppers, eggplant and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Frittata,"pasta, shrimp, lamb","Combine pasta, shrimp and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Skillet,"avocado, soy sauce, lamb, bun, carrots, fish","Combine avocado, soy sauce, lamb, bun, carrots and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Soup,"soy sauce, cheese",Combine soy sauce and cheese. Cook until done. Adjust seasoning to taste. Serve hot.
+Tortilla Soup,"tortilla, cream, lime, vinegar","Combine tortilla, cream, lime and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Delight,"pumpkin, eggs, beans, breadcrumbs, parmesan, garlic","Combine pumpkin, eggs, beans, breadcrumbs, parmesan and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Soup,"lettuce, caesar dressing",Combine lettuce and caesar dressing. Cook until done. Adjust seasoning to taste. Serve hot.
+Pasta Tart,"pasta, soy sauce, parmesan","Combine pasta, soy sauce and parmesan. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Bake,"butter, blueberries",Combine butter and blueberries. Cook until done. Adjust seasoning to taste. Serve hot.
+Bananas Bake,"bananas, mozzarella, tomato, soy sauce, celery, parsley","Combine bananas, mozzarella, tomato, soy sauce, celery and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Delight,"lemon, mixed vegetables",Combine lemon and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot.
+Cream Tart,"cream, eggplant, bun, milk","Combine cream, eggplant, bun and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Tuna Pasta,"tuna, cheese, dill, chicken, chocolate","Combine tuna, cheese, dill, chicken and chocolate. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Pasta,"chocolate, lettuce",Combine chocolate and lettuce. Cook until done. Adjust seasoning to taste. Serve hot.
+Flour Pasta,"flour, chicken, bun","Combine flour, chicken and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Salad,"pie crust, cucumber",Combine pie crust and cucumber. Cook until done. Adjust seasoning to taste. Serve hot.
+Mayonnaise Salad,"mayonnaise, lemon, curry powder, cucumber, banana","Combine mayonnaise, lemon, curry powder, cucumber and banana. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Tart,"lettuce, garlic, bell peppers, mayonnaise, water","Combine lettuce, garlic, bell peppers, mayonnaise and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Bake,"salt, lettuce, banana, butter, fish","Combine salt, lettuce, banana, butter and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Stir-Fry,"fish, bananas, bun, tomatoes, parsley, mayonnaise","Combine fish, bananas, bun, tomatoes, parsley and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortilla Salad,"tortilla, saffron, butter, mussels, sugar","Combine tortilla, saffron, butter, mussels and sugar. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Tart,"basil, parsley, apples, salmon","Combine basil, parsley, apples and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Mixed Vegetables Stir-Fry,"mixed vegetables, parsley, bell peppers","Combine mixed vegetables, parsley and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemons Stir-Fry,"lemons, cabbage, lamb, rosemary, lemon, onion","Combine lemons, cabbage, lamb, rosemary, lemon and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Pasta,"honey, soy sauce, caesar dressing, cocoa powder, onions","Combine honey, soy sauce, caesar dressing, cocoa powder and onions. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Pasta,"tortillas, strawberries, lamb","Combine tortillas, strawberries and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Frittata,"apples, lamb, ginger, cream, parsley, tomato","Combine apples, lamb, ginger, cream, parsley and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Casserole,"peppers, pasta, croutons, saffron","Combine peppers, pasta, croutons and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Tart,"zucchini, bread, ginger","Combine zucchini, bread and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Bake,"lettuce, breadcrumbs, dill, lemon, cucumber, coconut milk","Combine lettuce, breadcrumbs, dill, lemon, cucumber and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Casserole,"basil, eggplant",Combine basil and eggplant. Cook until done. Adjust seasoning to taste. Serve hot.
+Blueberries Pasta,"blueberries, pepper, onions, vegetables, sugar, cocoa powder","Combine blueberries, pepper, onions, vegetables, sugar and cocoa powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Skillet,"olive oil, eggplant, celery, yogurt, apples","Combine olive oil, eggplant, celery, yogurt and apples. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Tart,"cucumber, chocolate, salmon, peppers, beans","Combine cucumber, chocolate, salmon, peppers and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Cabbage Casserole,"cabbage, pepper, carrots","Combine cabbage, pepper and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Pasta,"spinach, tomatoes, lemons, pasta, tortillas, rosemary","Combine spinach, tomatoes, lemons, pasta, tortillas and rosemary. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Soup,"peas, chicken, pie crust, zucchini, fish, eggplant","Combine peas, chicken, pie crust, zucchini, fish and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Soup,"pumpkin, vegetables, dill, garlic, pasta, blueberries","Combine pumpkin, vegetables, dill, garlic, pasta and blueberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Flour Tart,"flour, lettuce, lemons","Combine flour, lettuce and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Salad,"carrots, cheese",Combine carrots and cheese. Cook until done. Adjust seasoning to taste. Serve hot.
+Cheese Stir-Fry,"cheese, croutons, bell peppers, onions, onion","Combine cheese, croutons, bell peppers, onions and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Frittata,"peppers, onions, beef, cream, yogurt, mussels","Combine peppers, onions, beef, cream, yogurt and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Casserole,"sugar, mushrooms",Combine sugar and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot.
+Milk Pasta,"milk, lamb",Combine milk and lamb. Cook until done. Adjust seasoning to taste. Serve hot.
+Salt Salad,"salt, shrimp, tortilla, cucumber, pumpkin","Combine salt, shrimp, tortilla, cucumber and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Stir-Fry,"parsley, pumpkin, banana, mussels","Combine parsley, pumpkin, banana and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Delight,"chickpeas, peppers, caesar dressing, tuna, salt","Combine chickpeas, peppers, caesar dressing, tuna and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Pasta,"tomato sauce, strawberries, zucchini, banana, bread","Combine tomato sauce, strawberries, zucchini, banana and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Soup,"peppers, cinnamon, beans","Combine peppers, cinnamon and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Soup,"lentils, croutons, pepper, lime, mushrooms","Combine lentils, croutons, pepper, lime and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggs Delight,"eggs, bread, pie crust, balsamic, shrimp","Combine eggs, bread, pie crust, balsamic and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Delight,"cucumber, yogurt, bell peppers, basil","Combine cucumber, yogurt, bell peppers and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Coconut Milk Bake,"coconut milk, balsamic, tuna","Combine coconut milk, balsamic and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Frittata,"caesar dressing, pie crust, butter","Combine caesar dressing, pie crust and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Bake,"peppers, eggs, mozzarella","Combine peppers, eggs and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortilla Delight,"tortilla, butter, chicken, lemon, bun, tomato","Combine tortilla, butter, chicken, lemon, bun and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Skillet,"sugar, mushrooms, mustard, coconut milk","Combine sugar, mushrooms, mustard and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Frittata,"vegetables, eggplant, bun, lamb, tomatoes, cabbage","Combine vegetables, eggplant, bun, lamb, tomatoes and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Pasta,"mayonnaise, salt",Combine mayonnaise and salt. Cook until done. Adjust seasoning to taste. Serve hot.
+Bell Peppers Delight,"bell peppers, rosemary, water, lime","Combine bell peppers, rosemary, water and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Casserole,"pumpkin, bun, parsley, mixed vegetables, vinegar","Combine pumpkin, bun, parsley, mixed vegetables and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Soup,"parsley, chocolate, salmon","Combine parsley, chocolate and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Stir-Fry,"salt, potatoes, peppers, parsley, tomato sauce, flour","Combine salt, potatoes, peppers, parsley, tomato sauce and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Salad,"breadcrumbs, garlic, peas","Combine breadcrumbs, garlic and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Casserole,"strawberries, tortillas, mushrooms, lime, banana","Combine strawberries, tortillas, mushrooms, lime and banana. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Soup,"cinnamon, pumpkin, croutons, milk","Combine cinnamon, pumpkin, croutons and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Tart,"garlic, tomatoes, spinach, avocado","Combine garlic, tomatoes, spinach and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Casserole,"bread, dill, onion","Combine bread, dill and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Skillet,"dill, pie crust, water, pumpkin, peas, balsamic","Combine dill, pie crust, water, pumpkin, peas and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Frittata,"cucumber, olive oil, eggplant, lemon","Combine cucumber, olive oil, eggplant and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Pasta,"pie crust, soy sauce, salsa, mayonnaise","Combine pie crust, soy sauce, salsa and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Salad,"lettuce, milk, pepper, flour, lemon, eggs","Combine lettuce, milk, pepper, flour, lemon and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Skillet,"cocoa powder, lemons",Combine cocoa powder and lemons. Cook until done. Adjust seasoning to taste. Serve hot.
+Cinnamon Tart,"cinnamon, cocoa powder, croutons, potatoes, garlic, tomato sauce","Combine cinnamon, cocoa powder, croutons, potatoes, garlic and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Bake,"ginger, broth, cocoa powder, honey, curry powder, mixed vegetables","Combine ginger, broth, cocoa powder, honey, curry powder and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Delight,"avocado, salt, caesar dressing, garlic","Combine avocado, salt, caesar dressing and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Bake,"soy sauce, honey",Combine soy sauce and honey. Cook until done. Adjust seasoning to taste. Serve hot.
+Bun Casserole,"bun, avocado, sugar, ginger, pie crust","Combine bun, avocado, sugar, ginger and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Lime Skillet,"lime, cinnamon, beans, eggs, potatoes","Combine lime, cinnamon, beans, eggs and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Skillet,"olive oil, pumpkin",Combine olive oil and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot.
+Vegetables Skillet,"vegetables, beans, cheese, water, strawberries, lamb","Combine vegetables, beans, cheese, water, strawberries and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Cabbage Frittata,"cabbage, spinach, onions","Combine cabbage, spinach and onions. Cook until done. Adjust seasoning to taste. Serve hot."
+Tuna Soup,"tuna, cucumber, salmon, mushrooms, peas, pasta","Combine tuna, cucumber, salmon, mushrooms, peas and pasta. Cook until done. Adjust seasoning to taste. Serve hot."
+Parmesan Skillet,"parmesan, lemon, strawberries, tuna, beef, tortillas","Combine parmesan, lemon, strawberries, tuna, beef and tortillas. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Skillet,"vegetables, croutons, fish","Combine vegetables, croutons and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Skillet,"dill, chocolate, soy sauce","Combine dill, chocolate and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Frittata,"apples, onion, peas","Combine apples, onion and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Skillet,"honey, bananas, curry powder, ginger, pepper","Combine honey, bananas, curry powder, ginger and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Salad,"fish, vegetables, tomato sauce","Combine fish, vegetables and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Soup,"butter, shrimp, cucumber, water, cheese","Combine butter, shrimp, cucumber, water and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Soup,"blueberries, beef, chickpeas","Combine blueberries, beef and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Pasta,"strawberries, ginger, pasta, cabbage, peppers, lamb","Combine strawberries, ginger, pasta, cabbage, peppers and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Skillet,"rosemary, shrimp, rice, pasta","Combine rosemary, shrimp, rice and pasta. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Skillet,"basil, parsley, lentils, tortilla, eggs, banana","Combine basil, parsley, lentils, tortilla, eggs and banana. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Soup,"sugar, tomato sauce, balsamic","Combine sugar, tomato sauce and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Bake,"basil, chocolate, pie crust, salmon, pasta, garlic","Combine basil, chocolate, pie crust, salmon, pasta and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Pasta,"parsley, vinegar, pumpkin, breadcrumbs, pie crust, mayonnaise","Combine parsley, vinegar, pumpkin, breadcrumbs, pie crust and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Pasta,"lentils, bun, chicken, lettuce","Combine lentils, bun, chicken and lettuce. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Casserole,"ginger, zucchini, olive oil, soy sauce, bananas","Combine ginger, zucchini, olive oil, soy sauce and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemons Stir-Fry,"lemons, eggs",Combine lemons and eggs. Cook until done. Adjust seasoning to taste. Serve hot.
+Olive Oil Delight,"olive oil, saffron",Combine olive oil and saffron. Cook until done. Adjust seasoning to taste. Serve hot.
+Peppers Frittata,"peppers, onion, beans, cocoa powder, salmon, mixed vegetables","Combine peppers, onion, beans, cocoa powder, salmon and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Tart,"vegetables, pasta, beans, cream, flour","Combine vegetables, pasta, beans, cream and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Skillet,"ginger, pasta, pumpkin","Combine ginger, pasta and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Salad,"vegetables, tortilla",Combine vegetables and tortilla. Cook until done. Adjust seasoning to taste. Serve hot.
+Lemon Tart,"lemon, soy sauce, avocado","Combine lemon, soy sauce and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Bake,"breadcrumbs, cucumber, butter, peppers, cabbage","Combine breadcrumbs, cucumber, butter, peppers and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Casserole,"honey, saffron, flour, onions, potatoes","Combine honey, saffron, flour, onions and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Pasta,"pepper, soy sauce, celery","Combine pepper, soy sauce and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomatoes Skillet,"tomatoes, saffron, carrots","Combine tomatoes, saffron and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Delight,"onions, lime, rosemary, flour","Combine onions, lime, rosemary and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Casserole,"lamb, tomato sauce, tomato, zucchini","Combine lamb, tomato sauce, tomato and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Stir-Fry,"peas, salt, potatoes","Combine peas, salt and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Stir-Fry,"soy sauce, shrimp, mushrooms, pepper","Combine soy sauce, shrimp, mushrooms and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Salad,"dill, sugar, mussels","Combine dill, sugar and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Bake,"basil, lemons, pie crust, mushrooms, mussels","Combine basil, lemons, pie crust, mushrooms and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Skillet,"bananas, caesar dressing, rosemary, tomato sauce, lettuce","Combine bananas, caesar dressing, rosemary, tomato sauce and lettuce. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Pasta,"broth, salsa, pepper, avocado, celery","Combine broth, salsa, pepper, avocado and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Stir-Fry,"blueberries, pie crust, fish","Combine blueberries, pie crust and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Stir-Fry,"mustard, yogurt, bread, lettuce, salt, mushrooms","Combine mustard, yogurt, bread, lettuce, salt and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Soup,"shrimp, bananas, tuna, bell peppers, dill","Combine shrimp, bananas, tuna, bell peppers and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Skillet,"breadcrumbs, parsley, broth","Combine breadcrumbs, parsley and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Delight,"chickpeas, lamb, banana, basil, lentils","Combine chickpeas, lamb, banana, basil and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Milk Salad,"milk, mozzarella, parsley, celery","Combine milk, mozzarella, parsley and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Onion Frittata,"onion, strawberries, cinnamon, chickpeas, chocolate, bread","Combine onion, strawberries, cinnamon, chickpeas, chocolate and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Tuna Salad,"tuna, dill, rice, tomato, celery","Combine tuna, dill, rice, tomato and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Soup,"vinegar, eggs, pepper, avocado, peppers","Combine vinegar, eggs, pepper, avocado and peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Chicken Pasta,"chicken, blueberries, pasta, mayonnaise, tomato sauce, lamb","Combine chicken, blueberries, pasta, mayonnaise, tomato sauce and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Casserole,"pepper, lamb, coconut milk, mussels","Combine pepper, lamb, coconut milk and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Frittata,"dill, mushrooms",Combine dill and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot.
+Sugar Pasta,"sugar, honey, balsamic, zucchini","Combine sugar, honey, balsamic and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Casserole,"avocado, strawberries, beans, tortilla","Combine avocado, strawberries, beans and tortilla. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Salad,"curry powder, tortilla, milk, cucumber","Combine curry powder, tortilla, milk and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggs Soup,"eggs, carrots, vegetables, broth, water, basil","Combine eggs, carrots, vegetables, broth, water and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Soup,"bananas, tomato, mixed vegetables, caesar dressing, breadcrumbs","Combine bananas, tomato, mixed vegetables, caesar dressing and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Tart,"onions, chocolate, coconut milk, caesar dressing","Combine onions, chocolate, coconut milk and caesar dressing. Cook until done. Adjust seasoning to taste. Serve hot."
+Salsa Soup,"salsa, rosemary, flour, chickpeas","Combine salsa, rosemary, flour and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Bake,"honey, lime, butter, peppers, blueberries","Combine honey, lime, butter, peppers and blueberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Skillet,"mustard, spinach, mixed vegetables","Combine mustard, spinach and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Stir-Fry,"avocado, fish, salt, cabbage, pepper","Combine avocado, fish, salt, cabbage and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Skillet,"tomato, mushrooms, vinegar, mozzarella","Combine tomato, mushrooms, vinegar and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Tart,"pie crust, banana, tuna","Combine pie crust, banana and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Casserole,"tortillas, cucumber, water, bell peppers","Combine tortillas, cucumber, water and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Delight,"yogurt, onion, butter, carrots","Combine yogurt, onion, butter and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Skillet,"lamb, rice",Combine lamb and rice. Cook until done. Adjust seasoning to taste. Serve hot.
+Dill Bake,"dill, salt",Combine dill and salt. Cook until done. Adjust seasoning to taste. Serve hot.
+Pepper Bake,"pepper, mozzarella, shrimp, onions, tomato sauce","Combine pepper, mozzarella, shrimp, onions and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Soup,"yogurt, broth, pumpkin, tortillas, onion","Combine yogurt, broth, pumpkin, tortillas and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Casserole,"mozzarella, croutons",Combine mozzarella and croutons. Cook until done. Adjust seasoning to taste. Serve hot.
+Dill Stir-Fry,"dill, mixed vegetables, broth, mozzarella, shrimp","Combine dill, mixed vegetables, broth, mozzarella and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Salad,"mustard, garlic",Combine mustard and garlic. Cook until done. Adjust seasoning to taste. Serve hot.
+Pepper Salad,"pepper, breadcrumbs",Combine pepper and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot.
+Balsamic Salad,"balsamic, beans, lettuce, eggplant, caesar dressing, strawberries","Combine balsamic, beans, lettuce, eggplant, caesar dressing and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Frittata,"soy sauce, cream",Combine soy sauce and cream. Cook until done. Adjust seasoning to taste. Serve hot.
+Curry Powder Frittata,"curry powder, lettuce, celery","Combine curry powder, lettuce and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Bake,"garlic, celery",Combine garlic and celery. Cook until done. Adjust seasoning to taste. Serve hot.
+Eggs Stir-Fry,"eggs, chocolate, butter, banana, caesar dressing, avocado","Combine eggs, chocolate, butter, banana, caesar dressing and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Bake,"tomato sauce, lentils, balsamic","Combine tomato sauce, lentils and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Skillet,"beans, caesar dressing, onions, salsa","Combine beans, caesar dressing, onions and salsa. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Stir-Fry,"pie crust, peas",Combine pie crust and peas. Cook until done. Adjust seasoning to taste. Serve hot.
+Tomato Sauce Delight,"tomato sauce, bun, peas, rosemary, cucumber, tortillas","Combine tomato sauce, bun, peas, rosemary, cucumber and tortillas. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Pasta,"lamb, pepper, water, banana, beef, potatoes","Combine lamb, pepper, water, banana, beef and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Stir-Fry,"bun, pumpkin, pasta, blueberries, bread","Combine bun, pumpkin, pasta, blueberries and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Tart,"celery, bell peppers, caesar dressing, garlic, tuna, tomato","Combine celery, bell peppers, caesar dressing, garlic, tuna and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Casserole,"mushrooms, tomatoes, salsa, honey","Combine mushrooms, tomatoes, salsa and honey. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortilla Pasta,"tortilla, parsley, broth, butter, soy sauce, croutons","Combine tortilla, parsley, broth, butter, soy sauce and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Pasta,"curry powder, onion, lime, pepper, olive oil","Combine curry powder, onion, lime, pepper and olive oil. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemons Stir-Fry,"lemons, parmesan",Combine lemons and parmesan. Cook until done. Adjust seasoning to taste. Serve hot.
+Mozzarella Skillet,"mozzarella, cheese, pie crust, bell peppers","Combine mozzarella, cheese, pie crust and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Skillet,"breadcrumbs, parsley",Combine breadcrumbs and parsley. Cook until done. Adjust seasoning to taste. Serve hot.
+Caesar Dressing Tart,"caesar dressing, spinach, beef, tomato sauce","Combine caesar dressing, spinach, beef and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Soup,"lettuce, cabbage, onion, milk, parmesan, beans","Combine lettuce, cabbage, onion, milk, parmesan and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Bake,"lemon, milk, bun, sugar, rosemary, croutons","Combine lemon, milk, bun, sugar, rosemary and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Skillet,"cucumber, bun, mayonnaise, spinach, mozzarella","Combine cucumber, bun, mayonnaise, spinach and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Frittata,"sugar, cucumber, parmesan, spinach","Combine sugar, cucumber, parmesan and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Bake,"water, spinach, banana, tortilla, flour, zucchini","Combine water, spinach, banana, tortilla, flour and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Bake,"lemon, lime, mayonnaise, apples","Combine lemon, lime, mayonnaise and apples. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Skillet,"strawberries, zucchini, olive oil","Combine strawberries, zucchini and olive oil. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Tart,"vinegar, banana, breadcrumbs","Combine vinegar, banana and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Stir-Fry,"mushrooms, onions, pepper","Combine mushrooms, onions and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Frittata,"mozzarella, lemon, lentils","Combine mozzarella, lemon and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Skillet,"bread, beans, cheese, chicken, tuna, yogurt","Combine bread, beans, cheese, chicken, tuna and yogurt. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Frittata,"pasta, zucchini, parmesan, pumpkin","Combine pasta, zucchini, parmesan and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Stir-Fry,"onions, flour, croutons, saffron, butter","Combine onions, flour, croutons, saffron and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Soup,"butter, ginger, tomato sauce, pumpkin, salsa","Combine butter, ginger, tomato sauce, pumpkin and salsa. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Frittata,"cucumber, mustard",Combine cucumber and mustard. Cook until done. Adjust seasoning to taste. Serve hot.
+Apples Soup,"apples, cream",Combine apples and cream. Cook until done. Adjust seasoning to taste. Serve hot.
+Carrots Stir-Fry,"carrots, eggs, honey","Combine carrots, eggs and honey. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Pasta,"apples, rice",Combine apples and rice. Cook until done. Adjust seasoning to taste. Serve hot.
+Caesar Dressing Salad,"caesar dressing, mushrooms, salt","Combine caesar dressing, mushrooms and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Delight,"spinach, milk, blueberries, mustard, basil, parsley","Combine spinach, milk, blueberries, mustard, basil and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Pasta,"blueberries, lemons, sugar, parmesan, olive oil","Combine blueberries, lemons, sugar, parmesan and olive oil. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Bake,"butter, olive oil, balsamic, lentils","Combine butter, olive oil, balsamic and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Pasta,"pepper, mixed vegetables, breadcrumbs, parsley, bun, eggplant","Combine pepper, mixed vegetables, breadcrumbs, parsley, bun and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Salad,"olive oil, salsa, bread, mustard, lemon, lime","Combine olive oil, salsa, bread, mustard, lemon and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Skillet,"chickpeas, blueberries, saffron, vinegar","Combine chickpeas, blueberries, saffron and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Saffron Skillet,"saffron, cocoa powder, mayonnaise, water, celery, dill","Combine saffron, cocoa powder, mayonnaise, water, celery and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggs Frittata,"eggs, coconut milk, chocolate","Combine eggs, coconut milk and chocolate. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Casserole,"yogurt, blueberries, chocolate","Combine yogurt, blueberries and chocolate. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Frittata,"strawberries, tomato, peas, water, vinegar","Combine strawberries, tomato, peas, water and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Skillet,"vegetables, lemons, cheese, pasta","Combine vegetables, lemons, cheese and pasta. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Delight,"pasta, vegetables, lamb, garlic, tomato sauce","Combine pasta, vegetables, lamb, garlic and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Casserole,"rosemary, blueberries, lemon, peppers","Combine rosemary, blueberries, lemon and peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Soup,"beef, mozzarella",Combine beef and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot.
+Water Frittata,"water, breadcrumbs",Combine water and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot.
+Rosemary Casserole,"rosemary, mussels, peppers, tomato, soy sauce, basil","Combine rosemary, mussels, peppers, tomato, soy sauce and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Bake,"yogurt, cocoa powder, lentils, tortilla, pie crust, rosemary","Combine yogurt, cocoa powder, lentils, tortilla, pie crust and rosemary. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Stir-Fry,"peas, bun",Combine peas and bun. Cook until done. Adjust seasoning to taste. Serve hot.
+Rosemary Bake,"rosemary, water",Combine rosemary and water. Cook until done. Adjust seasoning to taste. Serve hot.
+Eggplant Casserole,"eggplant, pasta",Combine eggplant and pasta. Cook until done. Adjust seasoning to taste. Serve hot.
+Salmon Pasta,"salmon, tortillas, chicken, mixed vegetables, mozzarella, ginger","Combine salmon, tortillas, chicken, mixed vegetables, mozzarella and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Lime Stir-Fry,"lime, tomatoes, beans, vegetables, water","Combine lime, tomatoes, beans, vegetables and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Tart,"lettuce, broth",Combine lettuce and broth. Cook until done. Adjust seasoning to taste. Serve hot.
+Ginger Stir-Fry,"ginger, eggs, zucchini, tortilla, cheese","Combine ginger, eggs, zucchini, tortilla and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Bake,"tomato, zucchini",Combine tomato and zucchini. Cook until done. Adjust seasoning to taste. Serve hot.
+Lemon Bake,"lemon, yogurt, zucchini, mustard","Combine lemon, yogurt, zucchini and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Tart,"bread, lemon, spinach, mushrooms, lettuce, caesar dressing","Combine bread, lemon, spinach, mushrooms, lettuce and caesar dressing. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Tart,"water, parmesan",Combine water and parmesan. Cook until done. Adjust seasoning to taste. Serve hot.
+Balsamic Salad,"balsamic, mixed vegetables, lemon, cinnamon","Combine balsamic, mixed vegetables, lemon and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Bake,"pumpkin, cocoa powder, cucumber, carrots","Combine pumpkin, cocoa powder, cucumber and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Tart,"honey, broth",Combine honey and broth. Cook until done. Adjust seasoning to taste. Serve hot.
+Salsa Pasta,"salsa, bananas, lime, tuna, caesar dressing, tomatoes","Combine salsa, bananas, lime, tuna, caesar dressing and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Chicken Bake,"chicken, cinnamon, tuna","Combine chicken, cinnamon and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Frittata,"basil, onion, mixed vegetables, dill, pasta","Combine basil, onion, mixed vegetables, dill and pasta. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Soup,"peas, curry powder, salt, dill","Combine peas, curry powder, salt and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Soup,"cocoa powder, mozzarella, sugar, pasta, peppers","Combine cocoa powder, mozzarella, sugar, pasta and peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Frittata,"rosemary, salsa, onions, chicken, coconut milk","Combine rosemary, salsa, onions, chicken and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggs Casserole,"eggs, beans, water","Combine eggs, beans and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Soup,"soy sauce, bun, salmon, cabbage","Combine soy sauce, bun, salmon and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Chicken Casserole,"chicken, flour",Combine chicken and flour. Cook until done. Adjust seasoning to taste. Serve hot.
+Celery Delight,"celery, parsley, breadcrumbs, cucumber, peas, mayonnaise","Combine celery, parsley, breadcrumbs, cucumber, peas and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Pasta,"beans, mustard, rosemary, mozzarella, dill","Combine beans, mustard, rosemary, mozzarella and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Delight,"mozzarella, cucumber",Combine mozzarella and cucumber. Cook until done. Adjust seasoning to taste. Serve hot.
+Broth Bake,"broth, yogurt, lettuce, celery","Combine broth, yogurt, lettuce and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Bake,"ginger, pie crust",Combine ginger and pie crust. Cook until done. Adjust seasoning to taste. Serve hot.
+Peas Soup,"peas, tortillas, apples, bread, balsamic","Combine peas, tortillas, apples, bread and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Cheese Tart,"cheese, soy sauce, tortilla","Combine cheese, soy sauce and tortilla. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Delight,"butter, ginger, dill, lamb, cabbage","Combine butter, ginger, dill, lamb and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Casserole,"onions, vinegar, tuna","Combine onions, vinegar and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Frittata,"butter, rice",Combine butter and rice. Cook until done. Adjust seasoning to taste. Serve hot.
+Balsamic Soup,"balsamic, vegetables, saffron, sugar, dill, celery","Combine balsamic, vegetables, saffron, sugar, dill and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Pasta,"apples, tortillas, milk, dill, sugar","Combine apples, tortillas, milk, dill and sugar. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Skillet,"bread, salsa, mixed vegetables","Combine bread, salsa and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Casserole,"shrimp, rosemary, yogurt, soy sauce, balsamic, mussels","Combine shrimp, rosemary, yogurt, soy sauce, balsamic and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Stir-Fry,"vinegar, mussels",Combine vinegar and mussels. Cook until done. Adjust seasoning to taste. Serve hot.
+Balsamic Salad,"balsamic, milk, bell peppers, mayonnaise","Combine balsamic, milk, bell peppers and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Bake,"tomato, lettuce",Combine tomato and lettuce. Cook until done. Adjust seasoning to taste. Serve hot.
+Milk Stir-Fry,"milk, shrimp",Combine milk and shrimp. Cook until done. Adjust seasoning to taste. Serve hot.
+Peppers Bake,"peppers, potatoes, vegetables","Combine peppers, potatoes and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Bell Peppers Soup,"bell peppers, pepper, bananas","Combine bell peppers, pepper and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Soup,"basil, coconut milk, lemons","Combine basil, coconut milk and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Soup,"mustard, shrimp, pie crust, eggs, bananas, cocoa powder","Combine mustard, shrimp, pie crust, eggs, bananas and cocoa powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Skillet,"beans, yogurt, lettuce, flour","Combine beans, yogurt, lettuce and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Stir-Fry,"parsley, olive oil, pasta, mussels","Combine parsley, olive oil, pasta and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Rice Soup,"rice, mozzarella, salmon","Combine rice, mozzarella and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Parmesan Pasta,"parmesan, bread",Combine parmesan and bread. Cook until done. Adjust seasoning to taste. Serve hot.
+Cinnamon Stir-Fry,"cinnamon, shrimp, honey, lentils, bun, bread","Combine cinnamon, shrimp, honey, lentils, bun and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Bake,"lemon, peas, tortilla, parmesan","Combine lemon, peas, tortilla and parmesan. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Pasta,"mayonnaise, peas, basil, milk, tortillas","Combine mayonnaise, peas, basil, milk and tortillas. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Stir-Fry,"vinegar, beef, blueberries, olive oil","Combine vinegar, beef, blueberries and olive oil. Cook until done. Adjust seasoning to taste. Serve hot."
+Chicken Bake,"chicken, banana, celery, tortilla, pasta, bananas","Combine chicken, banana, celery, tortilla, pasta and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Stir-Fry,"dill, water",Combine dill and water. Cook until done. Adjust seasoning to taste. Serve hot.
+Mussels Bake,"mussels, strawberries, bananas, tortilla","Combine mussels, strawberries, bananas and tortilla. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Tart,"mozzarella, pasta, blueberries, sugar, carrots","Combine mozzarella, pasta, blueberries, sugar and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Salad,"mustard, lemons, yogurt, garlic","Combine mustard, lemons, yogurt and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Casserole,"banana, cinnamon",Combine banana and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot.
+Mussels Salad,"mussels, spinach, cabbage, fish, vinegar, peas","Combine mussels, spinach, cabbage, fish, vinegar and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Casserole,"ginger, pumpkin, coconut milk, cabbage, carrots, blueberries","Combine ginger, pumpkin, coconut milk, cabbage, carrots and blueberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Stir-Fry,"pasta, breadcrumbs, lemons","Combine pasta, breadcrumbs and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Soup,"soy sauce, shrimp",Combine soy sauce and shrimp. Cook until done. Adjust seasoning to taste. Serve hot.
+Chicken Tart,"chicken, vinegar, chocolate, mixed vegetables","Combine chicken, vinegar, chocolate and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Cabbage Salad,"cabbage, coconut milk, carrots","Combine cabbage, coconut milk and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Casserole,"banana, mixed vegetables, soy sauce, sugar, mozzarella","Combine banana, mixed vegetables, soy sauce, sugar and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Casserole,"caesar dressing, tortillas, breadcrumbs, bell peppers, lemon, mustard","Combine caesar dressing, tortillas, breadcrumbs, bell peppers, lemon and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Onion Skillet,"onion, zucchini, sugar, blueberries, caesar dressing, lemons","Combine onion, zucchini, sugar, blueberries, caesar dressing and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Frittata,"peppers, salmon, mayonnaise, caesar dressing, soy sauce","Combine peppers, salmon, mayonnaise, caesar dressing and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Delight,"caesar dressing, parsley, rosemary","Combine caesar dressing, parsley and rosemary. Cook until done. Adjust seasoning to taste. Serve hot."
+Salmon Soup,"salmon, cheese",Combine salmon and cheese. Cook until done. Adjust seasoning to taste. Serve hot.
+Chicken Stir-Fry,"chicken, lentils, cucumber","Combine chicken, lentils and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Bake,"ginger, bread, eggs, coconut milk, soy sauce, garlic","Combine ginger, bread, eggs, coconut milk, soy sauce and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Bake,"tortillas, salt, breadcrumbs, rosemary","Combine tortillas, salt, breadcrumbs and rosemary. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Frittata,"tomato, cheese, chickpeas, tuna, tortilla, lime","Combine tomato, cheese, chickpeas, tuna, tortilla and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Delight,"banana, bread",Combine banana and bread. Cook until done. Adjust seasoning to taste. Serve hot.
+Fish Delight,"fish, yogurt, cream, sugar, onions, tuna","Combine fish, yogurt, cream, sugar, onions and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Casserole,"vegetables, shrimp, honey, water, lamb","Combine vegetables, shrimp, honey, water and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Skillet,"olive oil, lamb, pepper","Combine olive oil, lamb and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Chicken Pasta,"chicken, pasta",Combine chicken and pasta. Cook until done. Adjust seasoning to taste. Serve hot.
+Peppers Stir-Fry,"peppers, cream, lime, tortilla, celery","Combine peppers, cream, lime, tortilla and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Tart,"mayonnaise, olive oil, caesar dressing, mozzarella","Combine mayonnaise, olive oil, caesar dressing and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Casserole,"bun, lemons, dill, peppers, cabbage, flour","Combine bun, lemons, dill, peppers, cabbage and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Soup,"celery, broth, beans","Combine celery, broth and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Frittata,"tortillas, onions, eggplant, chicken, lentils","Combine tortillas, onions, eggplant, chicken and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Casserole,"cocoa powder, chicken, rice, saffron","Combine cocoa powder, chicken, rice and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Tart,"lemon, rice, balsamic, breadcrumbs, mustard","Combine lemon, rice, balsamic, breadcrumbs and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Delight,"dill, croutons, tomato, milk, beans","Combine dill, croutons, tomato, milk and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Rice Soup,"rice, tomatoes, yogurt, pie crust","Combine rice, tomatoes, yogurt and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Pasta,"avocado, bun, parsley, carrots, fish, mixed vegetables","Combine avocado, bun, parsley, carrots, fish and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Tart,"basil, olive oil, beans, strawberries","Combine basil, olive oil, beans and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Mixed Vegetables Skillet,"mixed vegetables, soy sauce, ginger","Combine mixed vegetables, soy sauce and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Frittata,"rosemary, peas, soy sauce, garlic, tuna","Combine rosemary, peas, soy sauce, garlic and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Pasta,"caesar dressing, broth",Combine caesar dressing and broth. Cook until done. Adjust seasoning to taste. Serve hot.
+Lime Salad,"lime, spinach, mixed vegetables, celery","Combine lime, spinach, mixed vegetables and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Saffron Bake,"saffron, olive oil, rosemary, basil, vinegar, bananas","Combine saffron, olive oil, rosemary, basil, vinegar and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Frittata,"pie crust, salmon, pepper, cheese","Combine pie crust, salmon, pepper and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Frittata,"carrots, lentils, tortillas, lemons, chicken, mustard","Combine carrots, lentils, tortillas, lemons, chicken and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Tart,"tomato sauce, lime, rosemary, saffron","Combine tomato sauce, lime, rosemary and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Stir-Fry,"strawberries, lamb, pie crust, balsamic, mozzarella","Combine strawberries, lamb, pie crust, balsamic and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Soup,"onions, tomato",Combine onions and tomato. Cook until done. Adjust seasoning to taste. Serve hot.
+Tomatoes Soup,"tomatoes, pie crust",Combine tomatoes and pie crust. Cook until done. Adjust seasoning to taste. Serve hot.
+Sugar Tart,"sugar, curry powder, beans, tomato, potatoes, chickpeas","Combine sugar, curry powder, beans, tomato, potatoes and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Salad,"mushrooms, celery, eggplant, bananas, sugar, butter","Combine mushrooms, celery, eggplant, bananas, sugar and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Pasta,"pasta, lemons",Combine pasta and lemons. Cook until done. Adjust seasoning to taste. Serve hot.
+Onion Frittata,"onion, cream, rosemary","Combine onion, cream and rosemary. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Stir-Fry,"beef, carrots, salmon, cream, spinach","Combine beef, carrots, salmon, cream and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Salsa Tart,"salsa, mushrooms, lemons, chocolate, pepper","Combine salsa, mushrooms, lemons, chocolate and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Frittata,"shrimp, milk, water, fish","Combine shrimp, milk, water and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Salad,"cocoa powder, eggplant, garlic, spinach, lamb","Combine cocoa powder, eggplant, garlic, spinach and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Casserole,"ginger, cream, pumpkin, lemons","Combine ginger, cream, pumpkin and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Frittata,"spinach, garlic, ginger, cabbage","Combine spinach, garlic, ginger and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Soup,"mushrooms, mustard, mayonnaise, celery, honey, basil","Combine mushrooms, mustard, mayonnaise, celery, honey and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Soup,"mayonnaise, pasta",Combine mayonnaise and pasta. Cook until done. Adjust seasoning to taste. Serve hot.
+Croutons Soup,"croutons, coconut milk, salt, flour, spinach","Combine croutons, coconut milk, salt, flour and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Salad,"bun, tortillas, tomato sauce","Combine bun, tortillas and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Salad,"beans, salsa, cucumber","Combine beans, salsa and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Stir-Fry,"broth, onion",Combine broth and onion. Cook until done. Adjust seasoning to taste. Serve hot.
+Broth Pasta,"broth, carrots, apples, soy sauce, chicken","Combine broth, carrots, apples, soy sauce and chicken. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Soup,"potatoes, yogurt, coconut milk, ginger, lentils","Combine potatoes, yogurt, coconut milk, ginger and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Frittata,"breadcrumbs, yogurt",Combine breadcrumbs and yogurt. Cook until done. Adjust seasoning to taste. Serve hot.
+Salt Pasta,"salt, bananas, chocolate","Combine salt, bananas and chocolate. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Bake,"bananas, mustard, rice","Combine bananas, mustard and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Frittata,"bananas, avocado, lamb, strawberries","Combine bananas, avocado, lamb and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Casserole,"lettuce, ginger",Combine lettuce and ginger. Cook until done. Adjust seasoning to taste. Serve hot.
+Salsa Salad,"salsa, rice, carrots, rosemary, peppers, flour","Combine salsa, rice, carrots, rosemary, peppers and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Casserole,"lettuce, chicken",Combine lettuce and chicken. Cook until done. Adjust seasoning to taste. Serve hot.
+Cinnamon Frittata,"cinnamon, avocado, lime, honey","Combine cinnamon, avocado, lime and honey. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Pasta,"chocolate, tortillas, vinegar","Combine chocolate, tortillas and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Saffron Bake,"saffron, lentils, breadcrumbs, olive oil, broth","Combine saffron, lentils, breadcrumbs, olive oil and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Delight,"potatoes, lentils, eggplant","Combine potatoes, lentils and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Mussels Stir-Fry,"mussels, dill, peas, flour","Combine mussels, dill, peas and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Stir-Fry,"tomato, sugar, avocado, fish","Combine tomato, sugar, avocado and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Soup,"beef, cabbage, peppers","Combine beef, cabbage and peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Skillet,"olive oil, rosemary, lemon","Combine olive oil, rosemary and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Casserole,"mozzarella, tortillas, cucumber, carrots","Combine mozzarella, tortillas, cucumber and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Pasta,"pepper, tortilla, mozzarella","Combine pepper, tortilla and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Tart,"pie crust, salt, croutons, eggplant, tomatoes, bread","Combine pie crust, salt, croutons, eggplant, tomatoes and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Salsa Delight,"salsa, mixed vegetables, blueberries, strawberries, butter","Combine salsa, mixed vegetables, blueberries, strawberries and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Stir-Fry,"rosemary, coconut milk, sugar, salt, cheese, chickpeas","Combine rosemary, coconut milk, sugar, salt, cheese and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Tart,"pasta, butter, cream, tomato, pumpkin, breadcrumbs","Combine pasta, butter, cream, tomato, pumpkin and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Casserole,"beef, pepper, caesar dressing, saffron, onions","Combine beef, pepper, caesar dressing, saffron and onions. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Soup,"beef, spinach, peppers, lemon, balsamic, mustard","Combine beef, spinach, peppers, lemon, balsamic and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Skillet,"croutons, tomato",Combine croutons and tomato. Cook until done. Adjust seasoning to taste. Serve hot.
+Parmesan Skillet,"parmesan, mayonnaise",Combine parmesan and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot.
+Beef Bake,"beef, bell peppers, pie crust, bananas, ginger, onion","Combine beef, bell peppers, pie crust, bananas, ginger and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Pasta,"water, onions, mozzarella","Combine water, onions and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Stir-Fry,"mushrooms, bread, zucchini, shrimp, carrots","Combine mushrooms, bread, zucchini, shrimp and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Pasta,"chocolate, salt",Combine chocolate and salt. Cook until done. Adjust seasoning to taste. Serve hot.
+Caesar Dressing Tart,"caesar dressing, cucumber, apples, balsamic, lamb, peppers","Combine caesar dressing, cucumber, apples, balsamic, lamb and peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Stir-Fry,"salt, mushrooms, curry powder, eggplant, pepper","Combine salt, mushrooms, curry powder, eggplant and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Delight,"garlic, cocoa powder, butter","Combine garlic, cocoa powder and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Skillet,"tortillas, balsamic, dill, cream, bell peppers","Combine tortillas, balsamic, dill, cream and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Pasta,"bananas, peas, tomatoes, beans, eggplant, basil","Combine bananas, peas, tomatoes, beans, eggplant and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Tart,"curry powder, shrimp, croutons, beef, carrots","Combine curry powder, shrimp, croutons, beef and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Stir-Fry,"curry powder, sugar, lemons, tomatoes","Combine curry powder, sugar, lemons and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Tart,"lamb, celery, zucchini","Combine lamb, celery and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Onion Delight,"onion, lamb, garlic","Combine onion, lamb and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Delight,"tomato sauce, chocolate, vegetables, parmesan, spinach, rice","Combine tomato sauce, chocolate, vegetables, parmesan, spinach and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Pasta,"water, mushrooms, salsa, lemons","Combine water, mushrooms, salsa and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Cheese Casserole,"cheese, lamb, mushrooms, cinnamon, salt","Combine cheese, lamb, mushrooms, cinnamon and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Casserole,"cucumber, lamb, celery","Combine cucumber, lamb and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Pasta,"spinach, onion",Combine spinach and onion. Cook until done. Adjust seasoning to taste. Serve hot.
+Salsa Stir-Fry,"salsa, carrots, mussels, eggplant, eggs, cream","Combine salsa, carrots, mussels, eggplant, eggs and cream. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Skillet,"peas, mozzarella",Combine peas and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot.
+Cocoa Powder Delight,"cocoa powder, beans, flour, mushrooms, tortilla, vegetables","Combine cocoa powder, beans, flour, mushrooms, tortilla and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Tart,"cocoa powder, tomato sauce",Combine cocoa powder and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot.
+Potatoes Soup,"potatoes, cream, lettuce","Combine potatoes, cream and lettuce. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Skillet,"croutons, cocoa powder",Combine croutons and cocoa powder. Cook until done. Adjust seasoning to taste. Serve hot.
+Eggplant Tart,"eggplant, tortilla, cream, mustard, dill","Combine eggplant, tortilla, cream, mustard and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Stir-Fry,"ginger, mushrooms, peppers, salt","Combine ginger, mushrooms, peppers and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Casserole,"fish, mixed vegetables, saffron, rice","Combine fish, mixed vegetables, saffron and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Salad,"pie crust, lemons",Combine pie crust and lemons. Cook until done. Adjust seasoning to taste. Serve hot.
+Lemons Salad,"lemons, onion, basil, strawberries","Combine lemons, onion, basil and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Balsamic Frittata,"balsamic, fish, soy sauce","Combine balsamic, fish and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Pasta,"onions, honey, cheese, coconut milk, lettuce, curry powder","Combine onions, honey, cheese, coconut milk, lettuce and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Casserole,"eggplant, rice, soy sauce, lime, eggs, pumpkin","Combine eggplant, rice, soy sauce, lime, eggs and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Bake,"chickpeas, milk, carrots, shrimp, pumpkin","Combine chickpeas, milk, carrots, shrimp and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Delight,"water, beef, salsa, bananas, blueberries, beans","Combine water, beef, salsa, bananas, blueberries and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Delight,"carrots, vegetables, curry powder, bell peppers, cheese","Combine carrots, vegetables, curry powder, bell peppers and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Delight,"rosemary, pepper, mozzarella","Combine rosemary, pepper and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Tart,"vinegar, tortillas, potatoes, pumpkin, balsamic, apples","Combine vinegar, tortillas, potatoes, pumpkin, balsamic and apples. Cook until done. Adjust seasoning to taste. Serve hot."
+Onion Soup,"onion, avocado, balsamic, salsa, garlic, salt","Combine onion, avocado, balsamic, salsa, garlic and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Bake,"rosemary, parsley",Combine rosemary and parsley. Cook until done. Adjust seasoning to taste. Serve hot.
+Broth Bake,"broth, salsa",Combine broth and salsa. Cook until done. Adjust seasoning to taste. Serve hot.
+Cocoa Powder Soup,"cocoa powder, tuna, salsa","Combine cocoa powder, tuna and salsa. Cook until done. Adjust seasoning to taste. Serve hot."
+Flour Pasta,"flour, mustard, bread, mozzarella","Combine flour, mustard, bread and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Delight,"strawberries, eggplant, cucumber, lamb, bread","Combine strawberries, eggplant, cucumber, lamb and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Pasta,"olive oil, mushrooms",Combine olive oil and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot.
+Pie Crust Casserole,"pie crust, beef, vinegar, avocado, chickpeas, bread","Combine pie crust, beef, vinegar, avocado, chickpeas and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Delight,"water, lettuce, strawberries, broth, salsa","Combine water, lettuce, strawberries, broth and salsa. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Soup,"croutons, strawberries, pie crust","Combine croutons, strawberries and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Tart,"blueberries, garlic",Combine blueberries and garlic. Cook until done. Adjust seasoning to taste. Serve hot.
+Zucchini Frittata,"zucchini, bananas, chocolate, lemons, balsamic, cream","Combine zucchini, bananas, chocolate, lemons, balsamic and cream. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Bake,"mustard, blueberries, lamb","Combine mustard, blueberries and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Bake,"dill, strawberries, mussels, shrimp, lettuce, water","Combine dill, strawberries, mussels, shrimp, lettuce and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Delight,"rosemary, mayonnaise",Combine rosemary and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot.
+Parsley Skillet,"parsley, curry powder",Combine parsley and curry powder. Cook until done. Adjust seasoning to taste. Serve hot.
+Tortilla Stir-Fry,"tortilla, tortillas, tomatoes, mustard","Combine tortilla, tortillas, tomatoes and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Casserole,"vinegar, flour",Combine vinegar and flour. Cook until done. Adjust seasoning to taste. Serve hot.
+Curry Powder Bake,"curry powder, milk, soy sauce, mushrooms, parsley","Combine curry powder, milk, soy sauce, mushrooms and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Skillet,"zucchini, mushrooms, bread, tuna, honey, eggplant","Combine zucchini, mushrooms, bread, tuna, honey and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Flour Pasta,"flour, cheese",Combine flour and cheese. Cook until done. Adjust seasoning to taste. Serve hot.
+Mussels Skillet,"mussels, lemons, mixed vegetables","Combine mussels, lemons and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Casserole,"apples, lemon",Combine apples and lemon. Cook until done. Adjust seasoning to taste. Serve hot.
+Flour Bake,"flour, bun, caesar dressing, breadcrumbs","Combine flour, bun, caesar dressing and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Delight,"peas, spinach, saffron, onion, bun","Combine peas, spinach, saffron, onion and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Milk Skillet,"milk, soy sauce",Combine milk and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot.
+Tomatoes Pasta,"tomatoes, lentils, mussels, avocado, honey, onion","Combine tomatoes, lentils, mussels, avocado, honey and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Frittata,"spinach, eggplant",Combine spinach and eggplant. Cook until done. Adjust seasoning to taste. Serve hot.
+Chickpeas Soup,"chickpeas, mushrooms, zucchini, carrots, flour, lamb","Combine chickpeas, mushrooms, zucchini, carrots, flour and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Pasta,"celery, bell peppers, chickpeas, parsley, garlic","Combine celery, bell peppers, chickpeas, parsley and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Salad,"potatoes, blueberries, mixed vegetables, eggs","Combine potatoes, blueberries, mixed vegetables and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomatoes Bake,"tomatoes, tortillas, coconut milk, pepper, bun","Combine tomatoes, tortillas, coconut milk, pepper and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Pasta,"apples, mustard, lettuce, tuna","Combine apples, mustard, lettuce and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Frittata,"pasta, lettuce, parsley, yogurt","Combine pasta, lettuce, parsley and yogurt. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Salad,"lamb, lentils, tortilla","Combine lamb, lentils and tortilla. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemons Casserole,"lemons, chocolate, mustard, honey, vinegar","Combine lemons, chocolate, mustard, honey and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Skillet,"eggplant, lentils, mushrooms, garlic, mustard, mixed vegetables","Combine eggplant, lentils, mushrooms, garlic, mustard and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Coconut Milk Casserole,"coconut milk, tomato sauce, shrimp, cinnamon, soy sauce, banana","Combine coconut milk, tomato sauce, shrimp, cinnamon, soy sauce and banana. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Pasta,"pasta, honey, bell peppers","Combine pasta, honey and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Bake,"carrots, vinegar, lamb, dill, eggs","Combine carrots, vinegar, lamb, dill and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Frittata,"mushrooms, blueberries, peas, tomatoes, potatoes","Combine mushrooms, blueberries, peas, tomatoes and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Stir-Fry,"salt, rosemary, onions, shrimp, bananas","Combine salt, rosemary, onions, shrimp and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomatoes Bake,"tomatoes, vinegar, bread, bun, eggplant, milk","Combine tomatoes, vinegar, bread, bun, eggplant and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Skillet,"basil, strawberries, water, olive oil, lettuce, parsley","Combine basil, strawberries, water, olive oil, lettuce and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Salad,"broth, fish",Combine broth and fish. Cook until done. Adjust seasoning to taste. Serve hot.
+Salmon Stir-Fry,"salmon, spinach, tomato, sugar, cucumber, peas","Combine salmon, spinach, tomato, sugar, cucumber and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Delight,"peppers, tomato sauce, rosemary, cheese, mayonnaise","Combine peppers, tomato sauce, rosemary, cheese and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Bake,"bun, honey, onions, bread, butter","Combine bun, honey, onions, bread and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Tart,"lemon, lime, pepper, cream","Combine lemon, lime, pepper and cream. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Stir-Fry,"mayonnaise, pie crust, broth, pasta, peas","Combine mayonnaise, pie crust, broth, pasta and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Skillet,"lamb, basil",Combine lamb and basil. Cook until done. Adjust seasoning to taste. Serve hot.
+Lime Skillet,"lime, water",Combine lime and water. Cook until done. Adjust seasoning to taste. Serve hot.
+Eggplant Tart,"eggplant, salmon, chocolate","Combine eggplant, salmon and chocolate. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Casserole,"lettuce, spinach, parmesan","Combine lettuce, spinach and parmesan. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Bake,"olive oil, vegetables, cinnamon","Combine olive oil, vegetables and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Frittata,"mustard, banana, tortillas, coconut milk, peas","Combine mustard, banana, tortillas, coconut milk and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Mussels Skillet,"mussels, apples, croutons, cream, garlic","Combine mussels, apples, croutons, cream and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Casserole,"bun, salt, cinnamon, mixed vegetables, lentils, coconut milk","Combine bun, salt, cinnamon, mixed vegetables, lentils and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Tart,"fish, pumpkin",Combine fish and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot.
+Tomatoes Frittata,"tomatoes, mussels, tortillas, mustard","Combine tomatoes, mussels, tortillas and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Casserole,"mayonnaise, milk",Combine mayonnaise and milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Chocolate Stir-Fry,"chocolate, lamb, tortillas, tomato sauce, bread, carrots","Combine chocolate, lamb, tortillas, tomato sauce, bread and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Skillet,"dill, lemon",Combine dill and lemon. Cook until done. Adjust seasoning to taste. Serve hot.
+Mozzarella Pasta,"mozzarella, celery, saffron","Combine mozzarella, celery and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomatoes Bake,"tomatoes, carrots, sugar, mussels, parmesan","Combine tomatoes, carrots, sugar, mussels and parmesan. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Bake,"vinegar, salt, water, chocolate, spinach","Combine vinegar, salt, water, chocolate and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Frittata,"ginger, carrots, cinnamon, lemons, peas","Combine ginger, carrots, cinnamon, lemons and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Milk Casserole,"milk, avocado",Combine milk and avocado. Cook until done. Adjust seasoning to taste. Serve hot.
+Cocoa Powder Tart,"cocoa powder, mussels, spinach","Combine cocoa powder, mussels and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Onion Skillet,"onion, pumpkin, onions, pasta, chickpeas","Combine onion, pumpkin, onions, pasta and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Tart,"banana, cucumber, honey, bananas, garlic, yogurt","Combine banana, cucumber, honey, bananas, garlic and yogurt. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Tart,"chickpeas, pepper, strawberries, rice","Combine chickpeas, pepper, strawberries and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Tart,"butter, sugar, zucchini, flour, shrimp, mixed vegetables","Combine butter, sugar, zucchini, flour, shrimp and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Salad,"pasta, shrimp",Combine pasta and shrimp. Cook until done. Adjust seasoning to taste. Serve hot.
+Bun Casserole,"bun, yogurt, eggplant, lamb, bananas","Combine bun, yogurt, eggplant, lamb and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Salad,"mayonnaise, breadcrumbs, pasta, cabbage","Combine mayonnaise, breadcrumbs, pasta and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Pasta,"tomato sauce, mayonnaise, tortillas","Combine tomato sauce, mayonnaise and tortillas. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Salad,"tortillas, carrots, cream","Combine tortillas, carrots and cream. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Tart,"strawberries, mayonnaise",Combine strawberries and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot.
+Tomatoes Soup,"tomatoes, salt, chickpeas, lentils","Combine tomatoes, salt, chickpeas and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Bake,"sugar, flour, saffron, broth","Combine sugar, flour, saffron and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Bake,"beef, garlic, yogurt, caesar dressing, eggplant","Combine beef, garlic, yogurt, caesar dressing and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Frittata,"eggplant, mustard, pumpkin, celery","Combine eggplant, mustard, pumpkin and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Skillet,"vegetables, onions, mushrooms, peas","Combine vegetables, onions, mushrooms and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Soup,"olive oil, saffron",Combine olive oil and saffron. Cook until done. Adjust seasoning to taste. Serve hot.
+Pepper Delight,"pepper, pumpkin, lentils, tomato","Combine pepper, pumpkin, lentils and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Stir-Fry,"pepper, vinegar",Combine pepper and vinegar. Cook until done. Adjust seasoning to taste. Serve hot.
+Salt Salad,"salt, mustard",Combine salt and mustard. Cook until done. Adjust seasoning to taste. Serve hot.
+Croutons Stir-Fry,"croutons, rice, flour, lentils, ginger","Combine croutons, rice, flour, lentils and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Delight,"sugar, caesar dressing, strawberries, pumpkin, lime, beans","Combine sugar, caesar dressing, strawberries, pumpkin, lime and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Delight,"vegetables, pepper",Combine vegetables and pepper. Cook until done. Adjust seasoning to taste. Serve hot.
+Chicken Casserole,"chicken, pasta",Combine chicken and pasta. Cook until done. Adjust seasoning to taste. Serve hot.
+Parmesan Bake,"parmesan, coconut milk",Combine parmesan and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Chicken Stir-Fry,"chicken, garlic, breadcrumbs, yogurt","Combine chicken, garlic, breadcrumbs and yogurt. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Delight,"bread, mozzarella, yogurt, chickpeas","Combine bread, mozzarella, yogurt and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Skillet,"vegetables, lemon, curry powder, parmesan, yogurt","Combine vegetables, lemon, curry powder, parmesan and yogurt. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Casserole,"apples, croutons",Combine apples and croutons. Cook until done. Adjust seasoning to taste. Serve hot.
+Caesar Dressing Salad,"caesar dressing, tomato sauce",Combine caesar dressing and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot.
+Pasta Bake,"pasta, avocado, yogurt, lime, cabbage, parmesan","Combine pasta, avocado, yogurt, lime, cabbage and parmesan. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Skillet,"blueberries, curry powder, mussels, breadcrumbs, bun","Combine blueberries, curry powder, mussels, breadcrumbs and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Bake,"mozzarella, lamb, carrots, mushrooms","Combine mozzarella, lamb, carrots and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot."
+Bell Peppers Delight,"bell peppers, salsa, strawberries","Combine bell peppers, salsa and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Pasta,"yogurt, chickpeas, pasta, mayonnaise, croutons, cheese","Combine yogurt, chickpeas, pasta, mayonnaise, croutons and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Frittata,"pasta, croutons, breadcrumbs, broth, carrots, cabbage","Combine pasta, croutons, breadcrumbs, broth, carrots and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Soup,"mayonnaise, parmesan, lemons, carrots, eggplant","Combine mayonnaise, parmesan, lemons, carrots and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Frittata,"eggplant, soy sauce",Combine eggplant and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot.
+Tortilla Frittata,"tortilla, ginger, banana, lamb, cream, salmon","Combine tortilla, ginger, banana, lamb, cream and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Pasta,"cocoa powder, mustard, honey, beans, dill, rice","Combine cocoa powder, mustard, honey, beans, dill and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Frittata,"dill, rice",Combine dill and rice. Cook until done. Adjust seasoning to taste. Serve hot.
+Salsa Stir-Fry,"salsa, avocado",Combine salsa and avocado. Cook until done. Adjust seasoning to taste. Serve hot.
+Caesar Dressing Stir-Fry,"caesar dressing, mussels, strawberries, onions","Combine caesar dressing, mussels, strawberries and onions. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Delight,"chocolate, pie crust, blueberries, balsamic, tomato sauce, bell peppers","Combine chocolate, pie crust, blueberries, balsamic, tomato sauce and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Tart,"croutons, basil, beef, mustard","Combine croutons, basil, beef and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Pasta,"vegetables, rosemary, onions, parmesan","Combine vegetables, rosemary, onions and parmesan. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Tart,"vinegar, salt",Combine vinegar and salt. Cook until done. Adjust seasoning to taste. Serve hot.
+Cheese Salad,"cheese, garlic, bread, lemon, water, saffron","Combine cheese, garlic, bread, lemon, water and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Frittata,"salt, lentils, mustard","Combine salt, lentils and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Salad,"lemon, parsley",Combine lemon and parsley. Cook until done. Adjust seasoning to taste. Serve hot.
+Eggplant Pasta,"eggplant, breadcrumbs",Combine eggplant and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot.
+Pepper Frittata,"pepper, tortillas",Combine pepper and tortillas. Cook until done. Adjust seasoning to taste. Serve hot.
+Lemon Bake,"lemon, zucchini",Combine lemon and zucchini. Cook until done. Adjust seasoning to taste. Serve hot.
+Avocado Delight,"avocado, carrots",Combine avocado and carrots. Cook until done. Adjust seasoning to taste. Serve hot.
+Rice Tart,"rice, mayonnaise, salmon","Combine rice, mayonnaise and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Skillet,"chickpeas, mozzarella, caesar dressing, flour","Combine chickpeas, mozzarella, caesar dressing and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Soup,"lettuce, parmesan",Combine lettuce and parmesan. Cook until done. Adjust seasoning to taste. Serve hot.
+Bell Peppers Casserole,"bell peppers, fish, sugar, vegetables, blueberries, rice","Combine bell peppers, fish, sugar, vegetables, blueberries and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Mixed Vegetables Bake,"mixed vegetables, beef, rice, strawberries, chickpeas, mozzarella","Combine mixed vegetables, beef, rice, strawberries, chickpeas and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Tart,"bun, sugar, butter, curry powder","Combine bun, sugar, butter and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Salad,"basil, avocado",Combine basil and avocado. Cook until done. Adjust seasoning to taste. Serve hot.
+Pie Crust Pasta,"pie crust, mixed vegetables",Combine pie crust and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot.
+Chocolate Pasta,"chocolate, bananas, soy sauce","Combine chocolate, bananas and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Stir-Fry,"lentils, eggplant, onions","Combine lentils, eggplant and onions. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Tart,"blueberries, sugar, mozzarella, cabbage","Combine blueberries, sugar, mozzarella and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Tart,"chocolate, cucumber",Combine chocolate and cucumber. Cook until done. Adjust seasoning to taste. Serve hot.
+Olive Oil Casserole,"olive oil, bell peppers",Combine olive oil and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot.
+Lemon Casserole,"lemon, lentils, breadcrumbs, soy sauce","Combine lemon, lentils, breadcrumbs and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Soup,"mozzarella, coconut milk",Combine mozzarella and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Lamb Casserole,"lamb, tuna, eggplant, peppers, mozzarella, tomato sauce","Combine lamb, tuna, eggplant, peppers, mozzarella and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Delight,"shrimp, eggplant, cheese","Combine shrimp, eggplant and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Delight,"banana, curry powder, shrimp, mayonnaise, vinegar","Combine banana, curry powder, shrimp, mayonnaise and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Skillet,"apples, zucchini, mushrooms, lemon","Combine apples, zucchini, mushrooms and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Salsa Casserole,"salsa, dill, onions","Combine salsa, dill and onions. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Skillet,"celery, garlic",Combine celery and garlic. Cook until done. Adjust seasoning to taste. Serve hot.
+Curry Powder Pasta,"curry powder, salmon",Combine curry powder and salmon. Cook until done. Adjust seasoning to taste. Serve hot.
+Pepper Tart,"pepper, bread, tomato, broth","Combine pepper, bread, tomato and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Frittata,"vinegar, mustard, blueberries","Combine vinegar, mustard and blueberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Stir-Fry,"beef, parsley, caesar dressing, dill, honey, fish","Combine beef, parsley, caesar dressing, dill, honey and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Skillet,"lentils, lemons, peas, flour, curry powder","Combine lentils, lemons, peas, flour and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Bake,"carrots, tomato, bun","Combine carrots, tomato and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Casserole,"chickpeas, peas",Combine chickpeas and peas. Cook until done. Adjust seasoning to taste. Serve hot.
+Onion Salad,"onion, cabbage, salt, milk","Combine onion, cabbage, salt and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Bake,"lemon, peppers, fish, cabbage, breadcrumbs","Combine lemon, peppers, fish, cabbage and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortilla Bake,"tortilla, basil, croutons, lentils","Combine tortilla, basil, croutons and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Pasta,"eggplant, milk",Combine eggplant and milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Beans Casserole,"beans, lamb, fish, chocolate, banana, olive oil","Combine beans, lamb, fish, chocolate, banana and olive oil. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Skillet,"soy sauce, eggplant, broth, peppers, bun, carrots","Combine soy sauce, eggplant, broth, peppers, bun and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Bake,"beef, cucumber",Combine beef and cucumber. Cook until done. Adjust seasoning to taste. Serve hot.
+Olive Oil Skillet,"olive oil, mozzarella, vegetables","Combine olive oil, mozzarella and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Casserole,"tomato sauce, fish, blueberries, balsamic, bell peppers, coconut milk","Combine tomato sauce, fish, blueberries, balsamic, bell peppers and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Delight,"breadcrumbs, lettuce, cabbage","Combine breadcrumbs, lettuce and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Casserole,"beans, chickpeas, sugar, parsley, mustard","Combine beans, chickpeas, sugar, parsley and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Bake,"mushrooms, parmesan",Combine mushrooms and parmesan. Cook until done. Adjust seasoning to taste. Serve hot.
+Croutons Bake,"croutons, cinnamon, garlic, peas","Combine croutons, cinnamon, garlic and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Frittata,"tortillas, tuna",Combine tortillas and tuna. Cook until done. Adjust seasoning to taste. Serve hot.
+Water Pasta,"water, honey, rice","Combine water, honey and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Pasta,"potatoes, beef, breadcrumbs, garlic, mussels, carrots","Combine potatoes, beef, breadcrumbs, garlic, mussels and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Tart,"water, salsa, eggplant","Combine water, salsa and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Casserole,"mushrooms, milk",Combine mushrooms and milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Pumpkin Soup,"pumpkin, mayonnaise, strawberries, rosemary, lentils, mussels","Combine pumpkin, mayonnaise, strawberries, rosemary, lentils and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Salad,"banana, lemons, tomatoes","Combine banana, lemons and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Casserole,"garlic, beef",Combine garlic and beef. Cook until done. Adjust seasoning to taste. Serve hot.
+Milk Salad,"milk, tomato, curry powder, chicken, broth, eggplant","Combine milk, tomato, curry powder, chicken, broth and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Pasta,"salt, beef, cucumber, sugar","Combine salt, beef, cucumber and sugar. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Stir-Fry,"chocolate, dill, tomato sauce, lemons","Combine chocolate, dill, tomato sauce and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Salad,"banana, milk, strawberries, water, celery, vinegar","Combine banana, milk, strawberries, water, celery and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Skillet,"shrimp, lemon, chocolate, pumpkin, bananas","Combine shrimp, lemon, chocolate, pumpkin and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Salad,"curry powder, tortilla",Combine curry powder and tortilla. Cook until done. Adjust seasoning to taste. Serve hot.
+Salsa Delight,"salsa, potatoes",Combine salsa and potatoes. Cook until done. Adjust seasoning to taste. Serve hot.
+Tortillas Bake,"tortillas, coconut milk, caesar dressing, lime","Combine tortillas, coconut milk, caesar dressing and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Bake,"beef, balsamic, celery, tomato sauce","Combine beef, balsamic, celery and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Salsa Skillet,"salsa, mixed vegetables",Combine salsa and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot.
+Zucchini Stir-Fry,"zucchini, mustard, tomato sauce, broth","Combine zucchini, mustard, tomato sauce and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Casserole,"lentils, carrots, chicken, parsley","Combine lentils, carrots, chicken and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Salad,"chocolate, spinach, tortillas, milk","Combine chocolate, spinach, tortillas and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Delight,"chocolate, mushrooms, lemon, honey, caesar dressing, zucchini","Combine chocolate, mushrooms, lemon, honey, caesar dressing and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Frittata,"mustard, strawberries, bananas, cinnamon, tortilla, lemons","Combine mustard, strawberries, bananas, cinnamon, tortilla and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Casserole,"vinegar, strawberries, bun","Combine vinegar, strawberries and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Stir-Fry,"lettuce, blueberries, dill","Combine lettuce, blueberries and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Casserole,"chickpeas, vinegar, breadcrumbs, lettuce","Combine chickpeas, vinegar, breadcrumbs and lettuce. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Salad,"fish, cream",Combine fish and cream. Cook until done. Adjust seasoning to taste. Serve hot.
+Mayonnaise Skillet,"mayonnaise, eggs",Combine mayonnaise and eggs. Cook until done. Adjust seasoning to taste. Serve hot.
+Beans Casserole,"beans, mussels",Combine beans and mussels. Cook until done. Adjust seasoning to taste. Serve hot.
+Chickpeas Tart,"chickpeas, onion, rice, mushrooms, mayonnaise","Combine chickpeas, onion, rice, mushrooms and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Bake,"broth, potatoes, sugar, yogurt, cucumber","Combine broth, potatoes, sugar, yogurt and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Soup,"blueberries, bananas, honey, balsamic, lemons","Combine blueberries, bananas, honey, balsamic and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Bake,"blueberries, lime",Combine blueberries and lime. Cook until done. Adjust seasoning to taste. Serve hot.
+Chicken Frittata,"chicken, blueberries, soy sauce, breadcrumbs, lime","Combine chicken, blueberries, soy sauce, breadcrumbs and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Bake,"potatoes, banana, parsley, chickpeas, tortilla, water","Combine potatoes, banana, parsley, chickpeas, tortilla and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Salad,"broth, lettuce",Combine broth and lettuce. Cook until done. Adjust seasoning to taste. Serve hot.
+Onion Soup,"onion, soy sauce, shrimp","Combine onion, soy sauce and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Pasta,"lamb, dill, broth, beans","Combine lamb, dill, broth and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Pasta,"soy sauce, pumpkin, cheese, beans, mixed vegetables, apples","Combine soy sauce, pumpkin, cheese, beans, mixed vegetables and apples. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Frittata,"honey, zucchini",Combine honey and zucchini. Cook until done. Adjust seasoning to taste. Serve hot.
+Coconut Milk Soup,"coconut milk, broth, banana, cream, chickpeas","Combine coconut milk, broth, banana, cream and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Soup,"pie crust, butter",Combine pie crust and butter. Cook until done. Adjust seasoning to taste. Serve hot.
+Pie Crust Tart,"pie crust, pumpkin, zucchini, fish, breadcrumbs","Combine pie crust, pumpkin, zucchini, fish and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Soup,"cinnamon, mozzarella, mushrooms, peas, basil","Combine cinnamon, mozzarella, mushrooms, peas and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Delight,"peppers, fish, cucumber, flour, strawberries","Combine peppers, fish, cucumber, flour and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Tart,"broth, bread, mayonnaise","Combine broth, bread and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Tart,"tomato sauce, curry powder, soy sauce, beef, mussels","Combine tomato sauce, curry powder, soy sauce, beef and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Skillet,"salt, pie crust, sugar, dill, lamb","Combine salt, pie crust, sugar, dill and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Bake,"bananas, rosemary, sugar, salmon, tuna","Combine bananas, rosemary, sugar, salmon and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Bake,"peas, chocolate",Combine peas and chocolate. Cook until done. Adjust seasoning to taste. Serve hot.
+Cocoa Powder Pasta,"cocoa powder, caesar dressing, basil","Combine cocoa powder, caesar dressing and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Bake,"parsley, coconut milk",Combine parsley and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Fish Pasta,"fish, lemons, bell peppers, breadcrumbs, mussels, spinach","Combine fish, lemons, bell peppers, breadcrumbs, mussels and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Frittata,"lentils, garlic, salmon, pepper, avocado, tuna","Combine lentils, garlic, salmon, pepper, avocado and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Frittata,"onions, butter, zucchini, cheese, celery, strawberries","Combine onions, butter, zucchini, cheese, celery and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Stir-Fry,"broth, bun, strawberries, zucchini, ginger, salt","Combine broth, bun, strawberries, zucchini, ginger and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Frittata,"fish, mussels, yogurt, pumpkin, sugar","Combine fish, mussels, yogurt, pumpkin and sugar. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Frittata,"bananas, chocolate, garlic, olive oil, celery","Combine bananas, chocolate, garlic, olive oil and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Casserole,"olive oil, bananas, mustard, lettuce, dill, beans","Combine olive oil, bananas, mustard, lettuce, dill and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Soup,"mozzarella, balsamic, lime, lamb","Combine mozzarella, balsamic, lime and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Soup,"pumpkin, broth, curry powder, carrots","Combine pumpkin, broth, curry powder and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Skillet,"lentils, flour, onions, tortilla, water","Combine lentils, flour, onions, tortilla and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Casserole,"pasta, croutons, onion","Combine pasta, croutons and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Tart,"mozzarella, beef, saffron, chicken, bell peppers, lemon","Combine mozzarella, beef, saffron, chicken, bell peppers and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Salad,"carrots, salsa, strawberries, banana, chocolate","Combine carrots, salsa, strawberries, banana and chocolate. Cook until done. Adjust seasoning to taste. Serve hot."
+Beef Casserole,"beef, eggplant, bananas","Combine beef, eggplant and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Mixed Vegetables Soup,"mixed vegetables, coconut milk",Combine mixed vegetables and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Peppers Skillet,"peppers, rosemary, mustard, vinegar","Combine peppers, rosemary, mustard and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Casserole,"dill, mozzarella",Combine dill and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot.
+Peas Stir-Fry,"peas, chocolate, pie crust, tomato sauce, soy sauce, mayonnaise","Combine peas, chocolate, pie crust, tomato sauce, soy sauce and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Delight,"fish, breadcrumbs, ginger","Combine fish, breadcrumbs and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Salad,"beans, chicken, sugar, croutons, cucumber","Combine beans, chicken, sugar, croutons and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Flour Tart,"flour, yogurt, onion","Combine flour, yogurt and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Bake,"avocado, pie crust",Combine avocado and pie crust. Cook until done. Adjust seasoning to taste. Serve hot.
+Tomatoes Soup,"tomatoes, avocado, cucumber","Combine tomatoes, avocado and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Casserole,"lemon, water, garlic, parmesan, mushrooms, mayonnaise","Combine lemon, water, garlic, parmesan, mushrooms and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Frittata,"croutons, peppers, lamb, salmon","Combine croutons, peppers, lamb and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Stir-Fry,"tomato, bun, apples, saffron, zucchini","Combine tomato, bun, apples, saffron and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Casserole,"water, tomatoes, tortilla, ginger, lamb, bun","Combine water, tomatoes, tortilla, ginger, lamb and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Lime Stir-Fry,"lime, garlic",Combine lime and garlic. Cook until done. Adjust seasoning to taste. Serve hot.
+Fish Bake,"fish, yogurt, lamb, cocoa powder","Combine fish, yogurt, lamb and cocoa powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Dill Delight,"dill, beef, tomatoes, olive oil, lemons, carrots","Combine dill, beef, tomatoes, olive oil, lemons and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Delight,"honey, fish, onions, olive oil, mussels","Combine honey, fish, onions, olive oil and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Stir-Fry,"sugar, cocoa powder, lime, cucumber, salt, pie crust","Combine sugar, cocoa powder, lime, cucumber, salt and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Casserole,"lamb, chickpeas, spinach, cinnamon, honey, broth","Combine lamb, chickpeas, spinach, cinnamon, honey and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Stir-Fry,"fish, spinach, cinnamon","Combine fish, spinach and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Salad,"cucumber, milk",Combine cucumber and milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Onions Frittata,"onions, lettuce, mozzarella, fish","Combine onions, lettuce, mozzarella and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Peppers Frittata,"peppers, cabbage, pie crust, beans","Combine peppers, cabbage, pie crust and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Tuna Pasta,"tuna, blueberries, pie crust, cocoa powder, rosemary, cabbage","Combine tuna, blueberries, pie crust, cocoa powder, rosemary and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Stir-Fry,"lamb, onion, beans, cheese, carrots, coconut milk","Combine lamb, onion, beans, cheese, carrots and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Skillet,"strawberries, pepper, celery, lemons, cinnamon","Combine strawberries, pepper, celery, lemons and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Delight,"lettuce, vegetables, chocolate, lemons, vinegar","Combine lettuce, vegetables, chocolate, lemons and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Salad,"peas, garlic",Combine peas and garlic. Cook until done. Adjust seasoning to taste. Serve hot.
+Sugar Skillet,"sugar, chicken, pumpkin","Combine sugar, chicken and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Pasta,"tortillas, parsley, vinegar","Combine tortillas, parsley and vinegar. Cook until done. Adjust seasoning to taste. Serve hot."
+Parmesan Tart,"parmesan, potatoes, mussels, apples, bananas","Combine parmesan, potatoes, mussels, apples and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Tart,"mozzarella, avocado, lentils","Combine mozzarella, avocado and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Balsamic Salad,"balsamic, apples, vegetables","Combine balsamic, apples and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Skillet,"mayonnaise, lemon, caesar dressing","Combine mayonnaise, lemon and caesar dressing. Cook until done. Adjust seasoning to taste. Serve hot."
+Rosemary Delight,"rosemary, tomato sauce, lemon, chickpeas, bell peppers","Combine rosemary, tomato sauce, lemon, chickpeas and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Tart,"honey, pepper, salmon, tomatoes","Combine honey, pepper, salmon and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Stir-Fry,"parsley, carrots, lime, pumpkin","Combine parsley, carrots, lime and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Salad,"chickpeas, olive oil, balsamic","Combine chickpeas, olive oil and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Frittata,"caesar dressing, croutons, balsamic","Combine caesar dressing, croutons and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Tart,"chickpeas, cabbage, mixed vegetables, bananas, mushrooms, eggs","Combine chickpeas, cabbage, mixed vegetables, bananas, mushrooms and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Skillet,"beans, tomatoes, zucchini, bun, balsamic, water","Combine beans, tomatoes, zucchini, bun, balsamic and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Casserole,"pasta, mushrooms, cabbage, soy sauce, eggs","Combine pasta, mushrooms, cabbage, soy sauce and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Cream Soup,"cream, vegetables, avocado","Combine cream, vegetables and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Frittata,"zucchini, broth, salmon, flour, tuna","Combine zucchini, broth, salmon, flour and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Frittata,"onions, bun, saffron","Combine onions, bun and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Skillet,"ginger, butter",Combine ginger and butter. Cook until done. Adjust seasoning to taste. Serve hot.
+Coconut Milk Pasta,"coconut milk, tortilla, fish, salmon, milk","Combine coconut milk, tortilla, fish, salmon and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Chicken Salad,"chicken, basil, soy sauce, rice","Combine chicken, basil, soy sauce and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Skillet,"lettuce, dill, apples, avocado, breadcrumbs","Combine lettuce, dill, apples, avocado and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Rice Soup,"rice, cheese, breadcrumbs, saffron, blueberries, broth","Combine rice, cheese, breadcrumbs, saffron, blueberries and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Casserole,"pepper, honey, fish","Combine pepper, honey and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Delight,"broth, chocolate",Combine broth and chocolate. Cook until done. Adjust seasoning to taste. Serve hot.
+Mixed Vegetables Skillet,"mixed vegetables, lemons, parmesan, butter","Combine mixed vegetables, lemons, parmesan and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Bake,"avocado, carrots",Combine avocado and carrots. Cook until done. Adjust seasoning to taste. Serve hot.
+Milk Skillet,"milk, pasta, tuna, flour","Combine milk, pasta, tuna and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Lime Pasta,"lime, cinnamon, butter, olive oil","Combine lime, cinnamon, butter and olive oil. Cook until done. Adjust seasoning to taste. Serve hot."
+Flour Bake,"flour, mussels, potatoes, onions, yogurt","Combine flour, mussels, potatoes, onions and yogurt. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Bake,"caesar dressing, beef",Combine caesar dressing and beef. Cook until done. Adjust seasoning to taste. Serve hot.
+Onions Casserole,"onions, tomato sauce",Combine onions and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot.
+Pasta Delight,"pasta, cinnamon, tortillas, mushrooms, milk, water","Combine pasta, cinnamon, tortillas, mushrooms, milk and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Pasta,"potatoes, pumpkin, butter","Combine potatoes, pumpkin and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Delight,"basil, bell peppers, fish, yogurt, lemons","Combine basil, bell peppers, fish, yogurt and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Frittata,"sugar, strawberries, cucumber, lime, salmon, vegetables","Combine sugar, strawberries, cucumber, lime, salmon and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Salad,"parsley, zucchini",Combine parsley and zucchini. Cook until done. Adjust seasoning to taste. Serve hot.
+Mayonnaise Tart,"mayonnaise, zucchini, water, mussels, cheese","Combine mayonnaise, zucchini, water, mussels and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Casserole,"beans, avocado, water, chicken, rosemary, pie crust","Combine beans, avocado, water, chicken, rosemary and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Salad,"blueberries, pumpkin, lentils","Combine blueberries, pumpkin and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Tart,"garlic, beans, rosemary, cucumber","Combine garlic, beans, rosemary and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Frittata,"olive oil, dill, bread, pepper, pasta","Combine olive oil, dill, bread, pepper and pasta. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Casserole,"breadcrumbs, rice, peas, lemons, cabbage","Combine breadcrumbs, rice, peas, lemons and cabbage. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Pasta,"bun, olive oil",Combine bun and olive oil. Cook until done. Adjust seasoning to taste. Serve hot.
+Spinach Delight,"spinach, soy sauce",Combine spinach and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot.
+Tortilla Soup,"tortilla, tuna",Combine tortilla and tuna. Cook until done. Adjust seasoning to taste. Serve hot.
+Spinach Salad,"spinach, cream, pepper, lime, mixed vegetables, beans","Combine spinach, cream, pepper, lime, mixed vegetables and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Stir-Fry,"lettuce, spinach, tuna, tomatoes, pie crust","Combine lettuce, spinach, tuna, tomatoes and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Butter Stir-Fry,"butter, broth, zucchini, cucumber, apples","Combine butter, broth, zucchini, cucumber and apples. Cook until done. Adjust seasoning to taste. Serve hot."
+Vinegar Stir-Fry,"vinegar, honey, soy sauce, salmon","Combine vinegar, honey, soy sauce and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Casserole,"basil, chickpeas",Combine basil and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot.
+Onion Frittata,"onion, bun, eggs","Combine onion, bun and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Salad,"cocoa powder, cabbage, mustard","Combine cocoa powder, cabbage and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Frittata,"cocoa powder, lime, bun, onions, basil","Combine cocoa powder, lime, bun, onions and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Frittata,"peas, pepper",Combine peas and pepper. Cook until done. Adjust seasoning to taste. Serve hot.
+Carrots Pasta,"carrots, rice, apples, salsa, beans, soy sauce","Combine carrots, rice, apples, salsa, beans and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Skillet,"potatoes, saffron, chocolate, tomato, water, caesar dressing","Combine potatoes, saffron, chocolate, tomato, water and caesar dressing. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Pasta,"zucchini, tomatoes, tortilla, lentils, rosemary","Combine zucchini, tomatoes, tortilla, lentils and rosemary. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortilla Soup,"tortilla, eggplant, garlic, mustard, lime","Combine tortilla, eggplant, garlic, mustard and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Tart,"carrots, onion, tortilla, saffron, lamb","Combine carrots, onion, tortilla, saffron and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Salad,"soy sauce, vegetables, croutons, coconut milk","Combine soy sauce, vegetables, croutons and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Stir-Fry,"honey, mayonnaise, caesar dressing, chocolate, rosemary, shrimp","Combine honey, mayonnaise, caesar dressing, chocolate, rosemary and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Milk Casserole,"milk, spinach",Combine milk and spinach. Cook until done. Adjust seasoning to taste. Serve hot.
+Sugar Tart,"sugar, onions, salt, ginger, parmesan, avocado","Combine sugar, onions, salt, ginger, parmesan and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Banana Bake,"banana, mushrooms",Combine banana and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot.
+Beef Soup,"beef, coconut milk",Combine beef and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Ginger Delight,"ginger, eggs, celery","Combine ginger, eggs and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Cream Casserole,"cream, shrimp, bananas, milk","Combine cream, shrimp, bananas and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Salad,"tortillas, spinach",Combine tortillas and spinach. Cook until done. Adjust seasoning to taste. Serve hot.
+Mussels Pasta,"mussels, dill, saffron, ginger, beans, mushrooms","Combine mussels, dill, saffron, ginger, beans and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemons Salad,"lemons, soy sauce, beans, avocado, eggs","Combine lemons, soy sauce, beans, avocado and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Frittata,"pasta, cucumber, vinegar, mozzarella, tomato sauce, shrimp","Combine pasta, cucumber, vinegar, mozzarella, tomato sauce and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Bake,"cocoa powder, honey, peas","Combine cocoa powder, honey and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Tart,"cinnamon, chocolate",Combine cinnamon and chocolate. Cook until done. Adjust seasoning to taste. Serve hot.
+Mushrooms Pasta,"mushrooms, basil",Combine mushrooms and basil. Cook until done. Adjust seasoning to taste. Serve hot.
+Spinach Frittata,"spinach, fish, caesar dressing, chicken","Combine spinach, fish, caesar dressing and chicken. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Delight,"apples, lettuce, peppers, cheese","Combine apples, lettuce, peppers and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Frittata,"lentils, tomatoes, beans","Combine lentils, tomatoes and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Skillet,"pumpkin, sugar, soy sauce, milk","Combine pumpkin, sugar, soy sauce and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Salsa Skillet,"salsa, cucumber, cinnamon, salmon","Combine salsa, cucumber, cinnamon and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Chicken Stir-Fry,"chicken, onions, shrimp, salt, olive oil, breadcrumbs","Combine chicken, onions, shrimp, salt, olive oil and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Stir-Fry,"croutons, zucchini, lettuce","Combine croutons, zucchini and lettuce. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Casserole,"honey, croutons, tuna, salsa","Combine honey, croutons, tuna and salsa. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Frittata,"yogurt, avocado, butter, mayonnaise, peas, dill","Combine yogurt, avocado, butter, mayonnaise, peas and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Soup,"eggplant, basil, lentils, mushrooms, butter, mussels","Combine eggplant, basil, lentils, mushrooms, butter and mussels. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Casserole,"ginger, banana, salmon, mozzarella, saffron, vegetables","Combine ginger, banana, salmon, mozzarella, saffron and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Tart,"basil, honey, yogurt, cocoa powder, lentils","Combine basil, honey, yogurt, cocoa powder and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Tart,"broth, chickpeas",Combine broth and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot.
+Apples Pasta,"apples, vegetables, bell peppers, cream, yogurt, croutons","Combine apples, vegetables, bell peppers, cream, yogurt and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Cream Pasta,"cream, salt",Combine cream and salt. Cook until done. Adjust seasoning to taste. Serve hot.
+Cheese Casserole,"cheese, banana",Combine cheese and banana. Cook until done. Adjust seasoning to taste. Serve hot.
+Bananas Bake,"bananas, breadcrumbs, blueberries, beans","Combine bananas, breadcrumbs, blueberries and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Soup,"spinach, blueberries, sugar, curry powder","Combine spinach, blueberries, sugar and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Mussels Stir-Fry,"mussels, peas, vegetables, olive oil, parsley","Combine mussels, peas, vegetables, olive oil and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Mussels Tart,"mussels, cabbage",Combine mussels and cabbage. Cook until done. Adjust seasoning to taste. Serve hot.
+Water Skillet,"water, tuna",Combine water and tuna. Cook until done. Adjust seasoning to taste. Serve hot.
+Basil Soup,"basil, blueberries, milk, rosemary, bun, honey","Combine basil, blueberries, milk, rosemary, bun and honey. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Casserole,"breadcrumbs, ginger, pasta, mushrooms, mustard, banana","Combine breadcrumbs, ginger, pasta, mushrooms, mustard and banana. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Pasta,"salt, cucumber, carrots","Combine salt, cucumber and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Honey Tart,"honey, vinegar, celery, lamb, mozzarella, avocado","Combine honey, vinegar, celery, lamb, mozzarella and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Pasta,"celery, cabbage, basil, apples, sugar, tomatoes","Combine celery, cabbage, basil, apples, sugar and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Pasta,"soy sauce, bread, lemon, cream, mayonnaise, croutons","Combine soy sauce, bread, lemon, cream, mayonnaise and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Salad,"celery, chicken, cinnamon, cucumber, tortillas, eggs","Combine celery, chicken, cinnamon, cucumber, tortillas and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Delight,"cinnamon, strawberries",Combine cinnamon and strawberries. Cook until done. Adjust seasoning to taste. Serve hot.
+Peppers Soup,"peppers, water, soy sauce, blueberries, honey, bell peppers","Combine peppers, water, soy sauce, blueberries, honey and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Coconut Milk Casserole,"coconut milk, tomato",Combine coconut milk and tomato. Cook until done. Adjust seasoning to taste. Serve hot.
+Milk Skillet,"milk, caesar dressing, yogurt, dill","Combine milk, caesar dressing, yogurt and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Tuna Casserole,"tuna, bell peppers, cocoa powder, lemons","Combine tuna, bell peppers, cocoa powder and lemons. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Bake,"lettuce, tortillas, zucchini, lemon, tomato","Combine lettuce, tortillas, zucchini, lemon and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Stir-Fry,"strawberries, mixed vegetables, lemons, parmesan, chickpeas, apples","Combine strawberries, mixed vegetables, lemons, parmesan, chickpeas and apples. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Soup,"cucumber, water, parsley","Combine cucumber, water and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Casserole,"carrots, lettuce, potatoes, peppers","Combine carrots, lettuce, potatoes and peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemon Bake,"lemon, pumpkin, soy sauce, bun","Combine lemon, pumpkin, soy sauce and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Skillet,"bread, garlic, carrots, salt, coconut milk, fish","Combine bread, garlic, carrots, salt, coconut milk and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Balsamic Delight,"balsamic, rosemary",Combine balsamic and rosemary. Cook until done. Adjust seasoning to taste. Serve hot.
+Tomato Soup,"tomato, olive oil, tomato sauce, croutons, bananas, soy sauce","Combine tomato, olive oil, tomato sauce, croutons, bananas and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Frittata,"shrimp, pie crust, cheese, mixed vegetables, mustard, cucumber","Combine shrimp, pie crust, cheese, mixed vegetables, mustard and cucumber. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Skillet,"carrots, peppers, rosemary, saffron","Combine carrots, peppers, rosemary and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Mixed Vegetables Frittata,"mixed vegetables, rosemary, avocado, zucchini, dill","Combine mixed vegetables, rosemary, avocado, zucchini and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Saffron Bake,"saffron, carrots, peas","Combine saffron, carrots and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Casserole,"strawberries, zucchini, celery","Combine strawberries, zucchini and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Skillet,"basil, cucumber, pumpkin, curry powder","Combine basil, cucumber, pumpkin and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Tart,"mozzarella, curry powder, basil, cream","Combine mozzarella, curry powder, basil and cream. Cook until done. Adjust seasoning to taste. Serve hot."
+Mussels Delight,"mussels, pie crust, pepper, basil","Combine mussels, pie crust, pepper and basil. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Soup,"bun, salmon, vinegar, garlic","Combine bun, salmon, vinegar and garlic. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Frittata,"shrimp, strawberries, chocolate, mushrooms, vinegar, mixed vegetables","Combine shrimp, strawberries, chocolate, mushrooms, vinegar and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Salmon Pasta,"salmon, eggs",Combine salmon and eggs. Cook until done. Adjust seasoning to taste. Serve hot.
+Salmon Stir-Fry,"salmon, olive oil, milk","Combine salmon, olive oil and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Potatoes Casserole,"potatoes, tortilla, apples, rosemary, carrots","Combine potatoes, tortilla, apples, rosemary and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Soup,"curry powder, blueberries, saffron","Combine curry powder, blueberries and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Cheese Stir-Fry,"cheese, cinnamon, chicken","Combine cheese, cinnamon and chicken. Cook until done. Adjust seasoning to taste. Serve hot."
+Cabbage Casserole,"cabbage, curry powder, onions, lettuce, butter, potatoes","Combine cabbage, curry powder, onions, lettuce, butter and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Cream Delight,"cream, tomato sauce, chicken, water, onion","Combine cream, tomato sauce, chicken, water and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Frittata,"basil, caesar dressing, sugar","Combine basil, caesar dressing and sugar. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Delight,"carrots, vegetables, saffron","Combine carrots, vegetables and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Pasta,"celery, beef, chickpeas, fish, cinnamon, salmon","Combine celery, beef, chickpeas, fish, cinnamon and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Strawberries Casserole,"strawberries, vinegar, balsamic, ginger, bread, croutons","Combine strawberries, vinegar, balsamic, ginger, bread and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Pie Crust Bake,"pie crust, potatoes, chickpeas, cucumber, onion, tomatoes","Combine pie crust, potatoes, chickpeas, cucumber, onion and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Casserole,"cinnamon, tuna, saffron, fish, chickpeas, lime","Combine cinnamon, tuna, saffron, fish, chickpeas and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Sauce Skillet,"tomato sauce, bell peppers, curry powder, mushrooms, mussels, caesar dressing","Combine tomato sauce, bell peppers, curry powder, mushrooms, mussels and caesar dressing. Cook until done. Adjust seasoning to taste. Serve hot."
+Coconut Milk Tart,"coconut milk, salmon",Combine coconut milk and salmon. Cook until done. Adjust seasoning to taste. Serve hot.
+Cheese Frittata,"cheese, tortilla, broth, chocolate, pie crust","Combine cheese, tortilla, broth, chocolate and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Bake,"bananas, salt, rosemary, cabbage, breadcrumbs, potatoes","Combine bananas, salt, rosemary, cabbage, breadcrumbs and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Delight,"shrimp, apples, parsley, salmon, onions, mozzarella","Combine shrimp, apples, parsley, salmon, onions and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Parmesan Frittata,"parmesan, curry powder, potatoes, mushrooms, mayonnaise, tomato sauce","Combine parmesan, curry powder, potatoes, mushrooms, mayonnaise and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Parmesan Soup,"parmesan, carrots",Combine parmesan and carrots. Cook until done. Adjust seasoning to taste. Serve hot.
+Curry Powder Pasta,"curry powder, bread, ginger, tomatoes, shrimp","Combine curry powder, bread, ginger, tomatoes and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Skillet,"cocoa powder, apples, sugar, salmon","Combine cocoa powder, apples, sugar and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Apples Skillet,"apples, mushrooms, cream, lemons, onion, mixed vegetables","Combine apples, mushrooms, cream, lemons, onion and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Parmesan Soup,"parmesan, yogurt, tomato","Combine parmesan, yogurt and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Frittata,"salt, parmesan, strawberries, mixed vegetables","Combine salt, parmesan, strawberries and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Mustard Tart,"mustard, cream, onion, soy sauce","Combine mustard, cream, onion and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Soup,"chocolate, mozzarella, spinach, potatoes, eggs","Combine chocolate, mozzarella, spinach, potatoes and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Bake,"mayonnaise, mustard, carrots, cabbage, curry powder, peas","Combine mayonnaise, mustard, carrots, cabbage, curry powder and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Pasta,"croutons, saffron",Combine croutons and saffron. Cook until done. Adjust seasoning to taste. Serve hot.
+Soy Sauce Pasta,"soy sauce, tortillas, beans, chicken","Combine soy sauce, tortillas, beans and chicken. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Casserole,"breadcrumbs, celery",Combine breadcrumbs and celery. Cook until done. Adjust seasoning to taste. Serve hot.
+Parsley Skillet,"parsley, breadcrumbs, bell peppers, fish, cucumber, mozzarella","Combine parsley, breadcrumbs, bell peppers, fish, cucumber and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Bananas Frittata,"bananas, mussels, olive oil, tortillas, salmon, ginger","Combine bananas, mussels, olive oil, tortillas, salmon and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Casserole,"chocolate, vinegar",Combine chocolate and vinegar. Cook until done. Adjust seasoning to taste. Serve hot.
+Avocado Salad,"avocado, coconut milk, zucchini, salmon, ginger","Combine avocado, coconut milk, zucchini, salmon and ginger. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomatoes Tart,"tomatoes, saffron",Combine tomatoes and saffron. Cook until done. Adjust seasoning to taste. Serve hot.
+Tortillas Stir-Fry,"tortillas, chickpeas, bananas","Combine tortillas, chickpeas and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Skillet,"yogurt, apples, chicken","Combine yogurt, apples and chicken. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Salad,"olive oil, milk, mustard, tomato sauce","Combine olive oil, milk, mustard and tomato sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Avocado Frittata,"avocado, bell peppers, breadcrumbs, soy sauce, ginger, spinach","Combine avocado, bell peppers, breadcrumbs, soy sauce, ginger and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Salad,"mayonnaise, garlic, cucumber, tortilla","Combine mayonnaise, garlic, cucumber and tortilla. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Pasta,"olive oil, sugar, apples, fish, chocolate","Combine olive oil, sugar, apples, fish and chocolate. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Skillet,"bun, spinach, blueberries, rosemary, honey, lime","Combine bun, spinach, blueberries, rosemary, honey and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggs Frittata,"eggs, salt, sugar, zucchini, pasta, mushrooms","Combine eggs, salt, sugar, zucchini, pasta and mushrooms. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Casserole,"eggplant, lime, pepper, tomato sauce, banana","Combine eggplant, lime, pepper, tomato sauce and banana. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Pasta,"fish, bell peppers",Combine fish and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot.
+Curry Powder Stir-Fry,"curry powder, lemons, onion","Combine curry powder, lemons and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Salt Pasta,"salt, avocado, fish, eggplant, ginger, breadcrumbs","Combine salt, avocado, fish, eggplant, ginger and breadcrumbs. Cook until done. Adjust seasoning to taste. Serve hot."
+Blueberries Stir-Fry,"blueberries, soy sauce, chocolate, pie crust","Combine blueberries, soy sauce, chocolate and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Salad,"croutons, sugar, flour, cinnamon","Combine croutons, sugar, flour and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot."
+Coconut Milk Salad,"coconut milk, dill, fish, cream, curry powder","Combine coconut milk, dill, fish, cream and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Tuna Skillet,"tuna, milk, cheese","Combine tuna, milk and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Casserole,"bread, zucchini",Combine bread and zucchini. Cook until done. Adjust seasoning to taste. Serve hot.
+Apples Stir-Fry,"apples, shrimp, basil, potatoes, mozzarella, tuna","Combine apples, shrimp, basil, potatoes, mozzarella and tuna. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Soup,"sugar, garlic, pumpkin, cinnamon, saffron","Combine sugar, garlic, pumpkin, cinnamon and saffron. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Pasta,"cucumber, sugar, caesar dressing, beans, salsa","Combine cucumber, sugar, caesar dressing, beans and salsa. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Bake,"shrimp, bananas, rosemary, mayonnaise, mustard","Combine shrimp, bananas, rosemary, mayonnaise and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Cabbage Delight,"cabbage, salmon, pepper, lemons, avocado","Combine cabbage, salmon, pepper, lemons and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Stir-Fry,"mushrooms, tomato, broth","Combine mushrooms, tomato and broth. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Soup,"tortillas, fish, cinnamon, soy sauce","Combine tortillas, fish, cinnamon and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot."
+Flour Stir-Fry,"flour, pie crust, tortillas","Combine flour, pie crust and tortillas. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Pasta,"cinnamon, rice, parmesan, cream","Combine cinnamon, rice, parmesan and cream. Cook until done. Adjust seasoning to taste. Serve hot."
+Mixed Vegetables Bake,"mixed vegetables, olive oil, garlic, peas","Combine mixed vegetables, olive oil, garlic and peas. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Tart,"caesar dressing, sugar, curry powder, broth, flour, dill","Combine caesar dressing, sugar, curry powder, broth, flour and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Delight,"mushrooms, coconut milk, celery, cheese, pie crust","Combine mushrooms, coconut milk, celery, cheese and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Tart,"onions, rice, carrots","Combine onions, rice and carrots. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemons Delight,"lemons, pumpkin, lamb, eggs, spinach, strawberries","Combine lemons, pumpkin, lamb, eggs, spinach and strawberries. Cook until done. Adjust seasoning to taste. Serve hot."
+Broth Casserole,"broth, chicken, beef, croutons, eggs","Combine broth, chicken, beef, croutons and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Soup,"peas, lettuce",Combine peas and lettuce. Cook until done. Adjust seasoning to taste. Serve hot.
+Mixed Vegetables Delight,"mixed vegetables, spinach, eggs, mayonnaise","Combine mixed vegetables, spinach, eggs and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Cabbage Frittata,"cabbage, mayonnaise, tortilla, coconut milk, sugar","Combine cabbage, mayonnaise, tortilla, coconut milk and sugar. Cook until done. Adjust seasoning to taste. Serve hot."
+Chocolate Casserole,"chocolate, ginger, milk, lentils, saffron, pumpkin","Combine chocolate, ginger, milk, lentils, saffron and pumpkin. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Soup,"mushrooms, tortillas",Combine mushrooms and tortillas. Cook until done. Adjust seasoning to taste. Serve hot.
+Vegetables Pasta,"vegetables, celery, chickpeas, vinegar, lime","Combine vegetables, celery, chickpeas, vinegar and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Salad,"sugar, olive oil, blueberries, bread, chicken, lime","Combine sugar, olive oil, blueberries, bread, chicken and lime. Cook until done. Adjust seasoning to taste. Serve hot."
+Lemons Frittata,"lemons, yogurt, honey, flour","Combine lemons, yogurt, honey and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Flour Casserole,"flour, pasta, mixed vegetables, tomato sauce, salmon","Combine flour, pasta, mixed vegetables, tomato sauce and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Soup,"chickpeas, cinnamon, balsamic, caesar dressing, dill","Combine chickpeas, cinnamon, balsamic, caesar dressing and dill. Cook until done. Adjust seasoning to taste. Serve hot."
+Cream Pasta,"cream, chickpeas",Combine cream and chickpeas. Cook until done. Adjust seasoning to taste. Serve hot.
+Broth Casserole,"broth, bell peppers",Combine broth and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot.
+Beans Soup,"beans, banana, mustard, salsa, bread, bun","Combine beans, banana, mustard, salsa, bread and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Cheese Soup,"cheese, bread, mussels, lemon, curry powder, eggplant","Combine cheese, bread, mussels, lemon, curry powder and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Vegetables Delight,"vegetables, caesar dressing, salsa, chickpeas, banana","Combine vegetables, caesar dressing, salsa, chickpeas and banana. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Soup,"lentils, pie crust, peppers, shrimp","Combine lentils, pie crust, peppers and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Casserole,"pasta, carrots, shrimp, chocolate, tomato sauce, tomatoes","Combine pasta, carrots, shrimp, chocolate, tomato sauce and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Parsley Stir-Fry,"parsley, salsa, vinegar, water, salt, lemon","Combine parsley, salsa, vinegar, water, salt and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Shrimp Stir-Fry,"shrimp, curry powder, breadcrumbs, pasta, lemon","Combine shrimp, curry powder, breadcrumbs, pasta and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Fish Tart,"fish, cheese, lamb, avocado, apples","Combine fish, cheese, lamb, avocado and apples. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Tart,"mayonnaise, ginger, pie crust","Combine mayonnaise, ginger and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Soup,"pumpkin, potatoes",Combine pumpkin and potatoes. Cook until done. Adjust seasoning to taste. Serve hot.
+Parsley Frittata,"parsley, honey",Combine parsley and honey. Cook until done. Adjust seasoning to taste. Serve hot.
+Apples Salad,"apples, soy sauce, mozzarella","Combine apples, soy sauce and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Spinach Pasta,"spinach, parsley, mustard, eggplant, chicken","Combine spinach, parsley, mustard, eggplant and chicken. Cook until done. Adjust seasoning to taste. Serve hot."
+Cucumber Salad,"cucumber, fish, bread, parmesan, vegetables","Combine cucumber, fish, bread, parmesan and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortillas Salad,"tortillas, flour, ginger, salt, yogurt, onion","Combine tortillas, flour, ginger, salt, yogurt and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Cinnamon Soup,"cinnamon, carrots",Combine cinnamon and carrots. Cook until done. Adjust seasoning to taste. Serve hot.
+Vinegar Frittata,"vinegar, pepper",Combine vinegar and pepper. Cook until done. Adjust seasoning to taste. Serve hot.
+Flour Delight,"flour, tuna, pumpkin, cocoa powder, lentils","Combine flour, tuna, pumpkin, cocoa powder and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Bake,"beans, salt, balsamic","Combine beans, salt and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Bake,"ginger, flour",Combine ginger and flour. Cook until done. Adjust seasoning to taste. Serve hot.
+Avocado Salad,"avocado, curry powder, breadcrumbs, cheese, rice","Combine avocado, curry powder, breadcrumbs, cheese and rice. Cook until done. Adjust seasoning to taste. Serve hot."
+Onions Casserole,"onions, lemon, rice, mozzarella","Combine onions, lemon, rice and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Lettuce Bake,"lettuce, bread",Combine lettuce and bread. Cook until done. Adjust seasoning to taste. Serve hot.
+Flour Skillet,"flour, mustard",Combine flour and mustard. Cook until done. Adjust seasoning to taste. Serve hot.
+Pie Crust Skillet,"pie crust, cinnamon, cocoa powder, eggs, mushrooms, avocado","Combine pie crust, cinnamon, cocoa powder, eggs, mushrooms and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Mussels Delight,"mussels, pasta, eggplant","Combine mussels, pasta and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Salad,"pepper, broth, salmon","Combine pepper, broth and salmon. Cook until done. Adjust seasoning to taste. Serve hot."
+Mussels Delight,"mussels, lemon, lentils, chicken, vegetables","Combine mussels, lemon, lentils, chicken and vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Salmon Stir-Fry,"salmon, cabbage, eggs, potatoes, lamb, coconut milk","Combine salmon, cabbage, eggs, potatoes, lamb and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Croutons Salad,"croutons, butter",Combine croutons and butter. Cook until done. Adjust seasoning to taste. Serve hot.
+Lentils Skillet,"lentils, avocado, chickpeas, garlic, tomato","Combine lentils, avocado, chickpeas, garlic and tomato. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Frittata,"eggplant, avocado, basil, tomato, pie crust","Combine eggplant, avocado, basil, tomato and pie crust. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Bake,"mozzarella, breadcrumbs, eggplant","Combine mozzarella, breadcrumbs and eggplant. Cook until done. Adjust seasoning to taste. Serve hot."
+Breadcrumbs Delight,"breadcrumbs, tuna, lime, vegetables, beef","Combine breadcrumbs, tuna, lime, vegetables and beef. Cook until done. Adjust seasoning to taste. Serve hot."
+Water Bake,"water, cheese, salt, bun","Combine water, cheese, salt and bun. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Casserole,"curry powder, lemons, spinach, water, mayonnaise","Combine curry powder, lemons, spinach, water and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Balsamic Bake,"balsamic, mushrooms, milk","Combine balsamic, mushrooms and milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Basil Soup,"basil, pumpkin, pasta, spinach","Combine basil, pumpkin, pasta and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Stir-Fry,"pumpkin, cocoa powder, strawberries, cinnamon, shrimp, mayonnaise","Combine pumpkin, cocoa powder, strawberries, cinnamon, shrimp and mayonnaise. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Tart,"garlic, tomatoes, soy sauce, chicken, bell peppers","Combine garlic, tomatoes, soy sauce, chicken and bell peppers. Cook until done. Adjust seasoning to taste. Serve hot."
+Peas Tart,"peas, honey, fish","Combine peas, honey and fish. Cook until done. Adjust seasoning to taste. Serve hot."
+Pepper Pasta,"pepper, apples, vinegar, rosemary","Combine pepper, apples, vinegar and rosemary. Cook until done. Adjust seasoning to taste. Serve hot."
+Balsamic Frittata,"balsamic, tuna, mixed vegetables","Combine balsamic, tuna and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Tart,"lentils, bell peppers, zucchini","Combine lentils, bell peppers and zucchini. Cook until done. Adjust seasoning to taste. Serve hot."
+Cocoa Powder Frittata,"cocoa powder, salsa, rice, soy sauce, cheese","Combine cocoa powder, salsa, rice, soy sauce and cheese. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Skillet,"lentils, onion, water, butter","Combine lentils, onion, water and butter. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Salad,"zucchini, bell peppers, basil, caesar dressing, chocolate, bananas","Combine zucchini, bell peppers, basil, caesar dressing, chocolate and bananas. Cook until done. Adjust seasoning to taste. Serve hot."
+Pumpkin Skillet,"pumpkin, cocoa powder",Combine pumpkin and cocoa powder. Cook until done. Adjust seasoning to taste. Serve hot.
+Sugar Pasta,"sugar, water",Combine sugar and water. Cook until done. Adjust seasoning to taste. Serve hot.
+Salsa Stir-Fry,"salsa, tuna, tomato sauce, eggs, beans","Combine salsa, tuna, tomato sauce, eggs and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Tortilla Salad,"tortilla, blueberries, avocado","Combine tortilla, blueberries and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Bread Tart,"bread, peppers, vinegar, beef, mixed vegetables","Combine bread, peppers, vinegar, beef and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Mozzarella Delight,"mozzarella, beef, tortillas, flour, salsa","Combine mozzarella, beef, tortillas, flour and salsa. Cook until done. Adjust seasoning to taste. Serve hot."
+Lamb Salad,"lamb, blueberries",Combine lamb and blueberries. Cook until done. Adjust seasoning to taste. Serve hot.
+Broth Salad,"broth, zucchini, curry powder, salt, mussels, cocoa powder","Combine broth, zucchini, curry powder, salt, mussels and cocoa powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Tart,"zucchini, eggplant, strawberries, vegetables, chocolate, spinach","Combine zucchini, eggplant, strawberries, vegetables, chocolate and spinach. Cook until done. Adjust seasoning to taste. Serve hot."
+Bun Pasta,"bun, vinegar, sugar, milk, pepper","Combine bun, vinegar, sugar, milk and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Tart,"chickpeas, cinnamon",Combine chickpeas and cinnamon. Cook until done. Adjust seasoning to taste. Serve hot.
+Rosemary Frittata,"rosemary, lime, zucchini, chicken, salt","Combine rosemary, lime, zucchini, chicken and salt. Cook until done. Adjust seasoning to taste. Serve hot."
+Milk Pasta,"milk, lemons, soy sauce, lentils, mozzarella","Combine milk, lemons, soy sauce, lentils and mozzarella. Cook until done. Adjust seasoning to taste. Serve hot."
+Lentils Salad,"lentils, tortilla, dill, strawberries, shrimp","Combine lentils, tortilla, dill, strawberries and shrimp. Cook until done. Adjust seasoning to taste. Serve hot."
+Soy Sauce Delight,"soy sauce, eggs, mixed vegetables, peas, mustard","Combine soy sauce, eggs, mixed vegetables, peas and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Delight,"ginger, tomatoes",Combine ginger and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot.
+Carrots Stir-Fry,"carrots, lamb, apples, yogurt, cucumber, croutons","Combine carrots, lamb, apples, yogurt, cucumber and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Garlic Tart,"garlic, soy sauce",Combine garlic and soy sauce. Cook until done. Adjust seasoning to taste. Serve hot.
+Sugar Stir-Fry,"sugar, zucchini, cheese, broth, bananas, pepper","Combine sugar, zucchini, cheese, broth, bananas and pepper. Cook until done. Adjust seasoning to taste. Serve hot."
+Carrots Frittata,"carrots, fish, mixed vegetables","Combine carrots, fish and mixed vegetables. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Skillet,"curry powder, eggs, lamb","Combine curry powder, eggs and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Olive Oil Bake,"olive oil, strawberries, croutons, blueberries, lentils, potatoes","Combine olive oil, strawberries, croutons, blueberries, lentils and potatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Delight,"sugar, broth, tomatoes, water, lamb","Combine sugar, broth, tomatoes, water and lamb. Cook until done. Adjust seasoning to taste. Serve hot."
+Mushrooms Pasta,"mushrooms, bread, beef, lettuce, mayonnaise, parsley","Combine mushrooms, bread, beef, lettuce, mayonnaise and parsley. Cook until done. Adjust seasoning to taste. Serve hot."
+Curry Powder Frittata,"curry powder, yogurt",Combine curry powder and yogurt. Cook until done. Adjust seasoning to taste. Serve hot.
+Vinegar Pasta,"vinegar, vegetables",Combine vinegar and vegetables. Cook until done. Adjust seasoning to taste. Serve hot.
+Lemon Delight,"lemon, salsa",Combine lemon and salsa. Cook until done. Adjust seasoning to taste. Serve hot.
+Shrimp Tart,"shrimp, strawberries, cheese, lentils","Combine shrimp, strawberries, cheese and lentils. Cook until done. Adjust seasoning to taste. Serve hot."
+Cheese Casserole,"cheese, beans, mustard","Combine cheese, beans and mustard. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Pasta,"sugar, rosemary, breadcrumbs, cucumber, parsley, honey","Combine sugar, rosemary, breadcrumbs, cucumber, parsley and honey. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Casserole,"caesar dressing, lime, bread","Combine caesar dressing, lime and bread. Cook until done. Adjust seasoning to taste. Serve hot."
+Beans Tart,"beans, soy sauce, olive oil, fish, bread, water","Combine beans, soy sauce, olive oil, fish, bread and water. Cook until done. Adjust seasoning to taste. Serve hot."
+Caesar Dressing Casserole,"caesar dressing, carrots, potatoes, spinach, coconut milk","Combine caesar dressing, carrots, potatoes, spinach and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot."
+Yogurt Tart,"yogurt, sugar, coconut milk, spinach, tortillas","Combine yogurt, sugar, coconut milk, spinach and tortillas. Cook until done. Adjust seasoning to taste. Serve hot."
+Eggplant Pasta,"eggplant, blueberries, flour","Combine eggplant, blueberries and flour. Cook until done. Adjust seasoning to taste. Serve hot."
+Sugar Pasta,"sugar, breadcrumbs, butter, onion","Combine sugar, breadcrumbs, butter and onion. Cook until done. Adjust seasoning to taste. Serve hot."
+Mayonnaise Delight,"mayonnaise, cocoa powder, lentils, tomatoes","Combine mayonnaise, cocoa powder, lentils and tomatoes. Cook until done. Adjust seasoning to taste. Serve hot."
+Chickpeas Frittata,"chickpeas, mayonnaise, tortillas, pasta","Combine chickpeas, mayonnaise, tortillas and pasta. Cook until done. Adjust seasoning to taste. Serve hot."
+Pasta Salad,"pasta, basil, curry powder","Combine pasta, basil and curry powder. Cook until done. Adjust seasoning to taste. Serve hot."
+Cheese Salad,"cheese, bread, butter, beans","Combine cheese, bread, butter and beans. Cook until done. Adjust seasoning to taste. Serve hot."
+Celery Casserole,"celery, ginger, avocado, lime, butter, lemon","Combine celery, ginger, avocado, lime, butter and lemon. Cook until done. Adjust seasoning to taste. Serve hot."
+Balsamic Salad,"balsamic, lettuce, cream, salt, croutons","Combine balsamic, lettuce, cream, salt and croutons. Cook until done. Adjust seasoning to taste. Serve hot."
+Salmon Delight,"salmon, fish, soy sauce, potatoes, tuna, celery","Combine salmon, fish, soy sauce, potatoes, tuna and celery. Cook until done. Adjust seasoning to taste. Serve hot."
+Tomato Bake,"tomato, zucchini, salsa, basil, eggs","Combine tomato, zucchini, salsa, basil and eggs. Cook until done. Adjust seasoning to taste. Serve hot."
+Ginger Frittata,"ginger, coconut milk",Combine ginger and coconut milk. Cook until done. Adjust seasoning to taste. Serve hot.
+Beans Skillet,"beans, peppers, yogurt, avocado","Combine beans, peppers, yogurt and avocado. Cook until done. Adjust seasoning to taste. Serve hot."
+Zucchini Soup,"zucchini, flour, mixed vegetables, bun, balsamic","Combine zucchini, flour, mixed vegetables, bun and balsamic. Cook until done. Adjust seasoning to taste. Serve hot."
