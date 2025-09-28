@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Recommendation</title>
+    <!-- include external stylesheet so new grid styles apply -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url("https://as1.ftcdn.net/v2/jpg/02/52/12/40/1000_F_252124067_aCtp9ZD934RboKmjJzkXiwYDL7XkNjpn.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: white;
+            text-align: center;
+            line-height: 1.6;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            outline: 2px solid white;
+            padding: 20px;
+            margin: 50px auto;
+            margin-top: 130px;
+            border-radius: 10px;
+            max-width: 800px;
+
+            /* NEW: fixed size and internal scrolling to keep container constant */
+            height: 600px;        /* matches static/style.css */
+            box-sizing: border-box;
+            overflow-y: auto;
+
+            /* hide scrollbar but keep scrolling */
+            -ms-overflow-style: none;  /* IE and Edge */
+            scrollbar-width: none;     /* Firefox */
+        }
+        /* WebKit browsers */
+        .container::-webkit-scrollbar {
+            width: 0;
+            height: 0;
+            display: none;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .header-gif {
+            height: 40px;
+            border-radius: 5px;
+            box-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .header-gif:hover {
+            transform: scale(1.1);
+        }
+
+        textarea, input[type="submit"] {
+            width: 60%;
+            padding: 2px;
+            margin-top: 10px;
+            font-size:1rem;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin: 15px;
+            padding: 5px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .results {
+            margin-top: 20px;
+            text-align: left;
+        }
+        .error, .message {
+            color: #ff6b6b;
+            font-size: 1.2rem;
+        }
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+        }
+        .results-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>|
+            <img src="/static/recipe1.gif" alt="cooking gif" class="header-gif" style="height: 40px; vertical-align: middle;">
+             Recipe Recommendation 
+            <img src="/static/recipe2.gif" alt="cooking gif" class="header-gif" style="height: 40px; vertical-align: middle;">
+        |</h1>
+        <form method="POST">
+            <label for="ingredients">Enter your preferred ingredients:</label><br>
+            <textarea id="ingredients" name="ingredients" rows="2" placeholder="e.g., flour, eggs, sugar"></textarea><br>
+            <input type="submit" value="Get Recipe Recommendations">
+        </form>
+
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+        {% if message %}
+            <p class="message">{{ message }}</p>
+        {% endif %}
+
+        {% if results %}
+            <div class="results">
+                <h2>Recommended Recipes:</h2>
+                <!-- Render up to 12 items (3 columns × 4 rows) -->
+                <div class="results-grid">
+                    {% for recipe in results[:12] %}
+                        <div class="results-item">
+                            <h3>{{ recipe.RecipeName }}</h3>
+                            <p><strong>Ingredients:</strong> {{ recipe.Ingredients }}</p>
+                            <p><strong>Instructions:</strong> {{ recipe.Instructions }}</p>
+                            {% if recipe.Matched or recipe.Missing %}
+                                <p><strong>Matched:</strong> {{ recipe.Matched }}</p>
+                                <p><strong>Missing:</strong> {{ recipe.Missing if recipe.Missing else 'None' }}</p>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
